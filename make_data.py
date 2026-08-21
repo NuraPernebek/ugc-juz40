@@ -17,14 +17,11 @@ import glob
 from datetime import datetime, timezone
 from collections import defaultdict
 
-# ==== Конкурсные хэштеги (как в tiktok_report.py) ====
+# ==== Конкурсный хэштег ====
+# Ищем только по этому хэштегу. Если позже добавите ещё — впишите
+# новой строкой в список, сайт и скрипт поддержат это автоматически.
 CONTESTS = [
     "juz40jurekte",
-    "juz40online",
-    "juz40fest26",
-    "juz40fest",
-    "juz40пен140",
-    "juz40жүрегімде",
 ]
 
 TOP_VIDEOS_LIMIT = 50   # сколько видео показывать на сайте
