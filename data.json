@@ -1,19 +1,14 @@
 {
- "updatedAt": "2026-08-21T21:17:53.796525+00:00",
+ "updatedAt": "2026-08-21T21:38:03.253496+00:00",
  "hashtags": [
-  "juz40jurekte",
-  "juz40online",
-  "juz40fest26",
-  "juz40fest",
-  "juz40пен140",
-  "juz40жүрегімде"
+  "juz40jurekte"
  ],
  "totals": {
-  "videos": 129,
-  "views": 6596568,
-  "likes": 454797,
-  "comments": 5685,
-  "users": 76
+  "videos": 80,
+  "views": 3850640,
+  "likes": 266696,
+  "comments": 3540,
+  "users": 47
  },
  "byHashtag": [
   {
@@ -21,36 +16,6 @@
    "videos": 80,
    "views": 3850640,
    "likes": 266696
-  },
-  {
-   "tag": "juz40online",
-   "videos": 89,
-   "views": 5334996,
-   "likes": 380846
-  },
-  {
-   "tag": "juz40fest26",
-   "videos": 8,
-   "views": 789574,
-   "likes": 42369
-  },
-  {
-   "tag": "juz40fest",
-   "videos": 20,
-   "views": 966140,
-   "likes": 53634
-  },
-  {
-   "tag": "juz40пен140",
-   "videos": 9,
-   "views": 513098,
-   "likes": 36899
-  },
-  {
-   "tag": "juz40жүрегімде",
-   "videos": 3,
-   "views": 27572,
-   "likes": 4860
   }
  ],
  "topUsers": [
@@ -62,15 +27,6 @@
    "shares": 31900,
    "posts": 1,
    "nickname": "aiza"
-  },
-  {
-   "user": "juz40_online1",
-   "views": 898400,
-   "likes": 56568,
-   "comments": 646,
-   "shares": 4542,
-   "posts": 8,
-   "nickname": "juz40_online"
   },
   {
    "user": "isabek_malika_",
@@ -91,15 +47,6 @@
    "nickname": "aainatuly_"
   },
   {
-   "user": "zhuldyzai.mussayeva",
-   "views": 375000,
-   "likes": 26000,
-   "comments": 189,
-   "shares": 678,
-   "posts": 1,
-   "nickname": "zhuldyzai.mussayeva"
-  },
-  {
    "user": "juz40juregimde",
    "views": 364433,
    "likes": 23478,
@@ -109,15 +56,6 @@
    "nickname": "English language🇬🇧🩷"
   },
   {
-   "user": "juz40_junior_",
-   "views": 314700,
-   "likes": 22016,
-   "comments": 232,
-   "shares": 1275,
-   "posts": 3,
-   "nickname": "juz40_junior_"
-  },
-  {
    "user": "madinadzhumash",
    "views": 212300,
    "likes": 4869,
@@ -125,42 +63,6 @@
    "shares": 79,
    "posts": 1,
    "nickname": "ʍᴀduu🤍"
-  },
-  {
-   "user": "juz40.junior",
-   "views": 195700,
-   "likes": 13764,
-   "comments": 115,
-   "shares": 1959,
-   "posts": 2,
-   "nickname": "juz40.junior"
-  },
-  {
-   "user": "juz40_aizhurekter",
-   "views": 184700,
-   "likes": 13649,
-   "comments": 50,
-   "shares": 1313,
-   "posts": 2,
-   "nickname": "juz40_aizhurekter"
-  },
-  {
-   "user": "juz40_karimushaas",
-   "views": 144300,
-   "likes": 14405,
-   "comments": 44,
-   "shares": 1018,
-   "posts": 2,
-   "nickname": "juz40_karimushaas"
-  },
-  {
-   "user": "juz40_ielts",
-   "views": 120900,
-   "likes": 12200,
-   "comments": 64,
-   "shares": 243,
-   "posts": 1,
-   "nickname": "juz40_ielts"
   },
   {
    "user": "as.yya.i",
@@ -181,24 +83,6 @@
    "nickname": "juz40_festtt"
   },
   {
-   "user": "inksxwl_",
-   "views": 75300,
-   "likes": 4807,
-   "comments": 36,
-   "shares": 120,
-   "posts": 1,
-   "nickname": "Ingkar Kydyrbek"
-  },
-  {
-   "user": "juz40.geography",
-   "views": 75300,
-   "likes": 2659,
-   "comments": 13,
-   "shares": 78,
-   "posts": 1,
-   "nickname": "juz40.geography"
-  },
-  {
    "user": "abdullaeva.b1",
    "views": 73900,
    "likes": 3963,
@@ -206,15 +90,6 @@
    "shares": 256,
    "posts": 1,
    "nickname": "77bkzhnvna"
-  },
-  {
-   "user": "juz40.dzht",
-   "views": 67828,
-   "likes": 5330,
-   "comments": 110,
-   "shares": 899,
-   "posts": 5,
-   "nickname": "juz40.dzht"
   },
   {
    "user": "nur._banu",
@@ -253,15 +128,6 @@
    "nickname": "Fary😜"
   },
   {
-   "user": "juz40pr",
-   "views": 43500,
-   "likes": 3224,
-   "comments": 24,
-   "shares": 178,
-   "posts": 1,
-   "nickname": "juz40.pr"
-  },
-  {
    "user": "erkinbek_0015",
    "views": 41000,
    "likes": 2489,
@@ -269,51 +135,6 @@
    "shares": 89,
    "posts": 1,
    "nickname": "."
-  },
-  {
-   "user": "juz40_informatics",
-   "views": 40226,
-   "likes": 2220,
-   "comments": 52,
-   "shares": 371,
-   "posts": 3,
-   "nickname": "ҰБТ | ИНФОРМАТИКА | JUZ40❤️‍🔥"
-  },
-  {
-   "user": "juz40.community",
-   "views": 38600,
-   "likes": 1728,
-   "comments": 21,
-   "shares": 61,
-   "posts": 1,
-   "nickname": "JUZ40 COMMUNITY"
-  },
-  {
-   "user": "juz40_community_astana",
-   "views": 32101,
-   "likes": 1607,
-   "comments": 40,
-   "shares": 289,
-   "posts": 2,
-   "nickname": "JUZ40 COMMUNITY ASTANA"
-  },
-  {
-   "user": "juz40.tarikh",
-   "views": 30200,
-   "likes": 1285,
-   "comments": 22,
-   "shares": 86,
-   "posts": 1,
-   "nickname": "juz40tarikh"
-  },
-  {
-   "user": "nunanuriii",
-   "views": 30100,
-   "likes": 1744,
-   "comments": 32,
-   "shares": 320,
-   "posts": 1,
-   "nickname": "⊹ 𝑁𝑢𝑟𝑖𝑙𝑎"
   },
   {
    "user": "bobe1im_",
@@ -361,15 +182,6 @@
    "nickname": "juz40jurekte"
   },
   {
-   "user": "juz40_fest",
-   "views": 17393,
-   "likes": 1499,
-   "comments": 53,
-   "shares": 69,
-   "posts": 2,
-   "nickname": "juz40_fest"
-  },
-  {
    "user": "ablaevvnaa_",
    "views": 15100,
    "likes": 886,
@@ -386,15 +198,6 @@
    "shares": 12,
    "posts": 1,
    "nickname": "theakimhanov"
-  },
-  {
-   "user": "juz40.chem",
-   "views": 14700,
-   "likes": 674,
-   "comments": 81,
-   "shares": 39,
-   "posts": 1,
-   "nickname": "juz40.chem"
   },
   {
    "user": "a.aixss",
@@ -433,24 +236,6 @@
    "nickname": "𝐴𝑟-𝑅𝑎𝑦𝑎𝑛𝑛~"
   },
   {
-   "user": "juz40_chemistry1",
-   "views": 10600,
-   "likes": 310,
-   "comments": 107,
-   "shares": 133,
-   "posts": 1,
-   "nickname": "ҰБТ | ХИМИЯ | JUZ40"
-  },
-  {
-   "user": "camiabdullina",
-   "views": 10200,
-   "likes": 815,
-   "comments": 26,
-   "shares": 11,
-   "posts": 1,
-   "nickname": "camila"
-  },
-  {
    "user": "aksatikyzy_",
    "views": 6629,
    "likes": 692,
@@ -487,22 +272,175 @@
    "nickname": "juz40fest_"
   },
   {
-   "user": "juz40.smarttar",
-   "views": 5465,
-   "likes": 544,
-   "comments": 13,
-   "shares": 76,
+   "user": "uldanaijuz40",
+   "views": 2729,
+   "likes": 115,
+   "comments": 9,
+   "shares": 4,
    "posts": 1,
-   "nickname": "01 - CHÈMISTRY | UMIT TOBY"
+   "nickname": "uldanaii"
   },
   {
-   "user": "zhalgasbay_09_08",
-   "views": 4762,
-   "likes": 178,
-   "comments": 26,
-   "shares": 35,
+   "user": "abenovv_b",
+   "views": 2662,
+   "likes": 114,
+   "comments": 43,
+   "shares": 4,
    "posts": 1,
-   "nickname": "Христофор Диас"
+   "nickname": "🧑‍🔬"
+  },
+  {
+   "user": "zhanekaa.01",
+   "views": 2561,
+   "likes": 87,
+   "comments": 6,
+   "shares": 2,
+   "posts": 2,
+   "nickname": "JUZ40 түлегі🎀"
+  },
+  {
+   "user": "beibarys_222",
+   "views": 2543,
+   "likes": 160,
+   "comments": 19,
+   "shares": 3,
+   "posts": 1,
+   "nickname": "beibarys"
+  },
+  {
+   "user": "_loolou",
+   "views": 2442,
+   "likes": 73,
+   "comments": 0,
+   "shares": 3,
+   "posts": 1,
+   "nickname": "_loolou"
+  },
+  {
+   "user": "moon.kerim",
+   "views": 1872,
+   "likes": 210,
+   "comments": 114,
+   "shares": 249,
+   "posts": 2,
+   "nickname": "Moon.kerim"
+  },
+  {
+   "user": "ayau4129",
+   "views": 1423,
+   "likes": 284,
+   "comments": 12,
+   "shares": 0,
+   "posts": 1,
+   "nickname": "Ayau"
+  },
+  {
+   "user": "k_anatovnaa",
+   "views": 1144,
+   "likes": 73,
+   "comments": 11,
+   "shares": 0,
+   "posts": 1,
+   "nickname": "𝓶𝓪𝓭𝓲𝓷"
+  },
+  {
+   "user": "_ser1kbolovnaaa",
+   "views": 1039,
+   "likes": 70,
+   "comments": 20,
+   "shares": 2,
+   "posts": 1,
+   "nickname": "𝓐𝓭𝓲𝓴𝓸𝓼𝓱"
+  },
+  {
+   "user": "juz40_tyq",
+   "views": 1028,
+   "likes": 64,
+   "comments": 3,
+   "shares": 1,
+   "posts": 1,
+   "nickname": "Juz40-ская💘"
+  },
+  {
+   "user": "juz40_finance",
+   "views": 986,
+   "likes": 76,
+   "comments": 1,
+   "shares": 0,
+   "posts": 1,
+   "nickname": "juz40_finance"
+  },
+  {
+   "user": "kako_juz40",
+   "views": 971,
+   "likes": 29,
+   "comments": 0,
+   "shares": 1,
+   "posts": 1,
+   "nickname": "kako_juz40"
+  },
+  {
+   "user": "aanelie.09",
+   "views": 970,
+   "likes": 38,
+   "comments": 3,
+   "shares": 2,
+   "posts": 1,
+   "nickname": "aanelie.09"
+  },
+  {
+   "user": "juz40.fest.joldam",
+   "views": 885,
+   "likes": 36,
+   "comments": 2,
+   "shares": 4,
+   "posts": 1,
+   "nickname": "juz40 fest joldama"
+  },
+  {
+   "user": "vsuwhr",
+   "views": 793,
+   "likes": 67,
+   "comments": 10,
+   "shares": 5,
+   "posts": 1,
+   "nickname": "𝐀𝐢𝐬𝐮𝐥𝐮"
+  },
+  {
+   "user": "zhaho_",
+   "views": 642,
+   "likes": 50,
+   "comments": 13,
+   "shares": 6,
+   "posts": 1,
+   "nickname": "zhaho_"
+  },
+  {
+   "user": "gullx.n",
+   "views": 626,
+   "likes": 38,
+   "comments": 3,
+   "shares": 3,
+   "posts": 1,
+   "nickname": "Gulnaz/juz40"
+  },
+  {
+   "user": "juz40_graduate26",
+   "views": 574,
+   "likes": 37,
+   "comments": 2,
+   "shares": 16,
+   "posts": 1,
+   "nickname": "juz40skaya"
+  },
+  {
+   "user": "juz40fest",
+   "views": 507,
+   "likes": 22,
+   "comments": 0,
+   "shares": 0,
+   "posts": 1,
+   "nickname": "Juz40"
   }
  ],
  "topVideos": [
@@ -525,15 +463,6 @@
    "link": "https://www.tiktok.com/@isabek_malika_/video/7670098258546429192"
   },
   {
-   "user": "zhuldyzai.mussayeva",
-   "nickname": "zhuldyzai.mussayeva",
-   "desc": "#juz40 #juz40online #zhuzhai #түлектеркеші2025 ",
-   "views": 375000,
-   "likes": 26000,
-   "comments": 189,
-   "link": "https://www.tiktok.com/@zhuldyzai.mussayeva/video/7541833365033405752"
-  },
-  {
    "user": "aainatuly_",
    "nickname": "aainatuly_",
    "desc": "Мойнымдағы юбкаға мән бермейміз🤣🫡 #juz40online #жж #juz40jurekte #fyp #прикол  @juz40_online @zhuldyzai.mussayeva ",
@@ -541,15 +470,6 @@
    "likes": 30000,
    "comments": 125,
    "link": "https://www.tiktok.com/@aainatuly_/video/7669420699605339413"
-  },
-  {
-   "user": "juz40_online1",
-   "nickname": "juz40_online",
-   "desc": "Кімді күтесің?😍👇#рекомендации #juz40online ",
-   "views": 318900,
-   "likes": 18200,
-   "comments": 265,
-   "link": "https://www.tiktok.com/@juz40_online1/video/7668028649584561426"
   },
   {
    "user": "juz40juregimde",
@@ -570,15 +490,6 @@
    "link": "https://www.tiktok.com/@madinadzhumash/video/7672283900239990024"
   },
   {
-   "user": "juz40_junior_",
-   "nickname": "juz40_junior_",
-   "desc": "Парақшаға тіркел!😍❤️‍🔥🔑 #juz40 #juz40online #140балл #juz40пен140 ",
-   "views": 186600,
-   "likes": 10900,
-   "comments": 59,
-   "link": "https://www.tiktok.com/@juz40_junior_/video/7642296654120389908"
-  },
-  {
    "user": "isabek_malika_",
    "nickname": "Малика💙",
    "desc": "Вип казахтарға @juz40_team @juz40_online #juz40jurekte #juz40fest26 #fyp #рек ",
@@ -586,42 +497,6 @@
    "likes": 7313,
    "comments": 52,
    "link": "https://www.tiktok.com/@isabek_malika_/video/7670178994070752519"
-  },
-  {
-   "user": "juz40_aizhurekter",
-   "nickname": "juz40_aizhurekter",
-   "desc": "#juz40online #junior #ushqyn #aizhurek ",
-   "views": 130200,
-   "likes": 11200,
-   "comments": 45,
-   "link": "https://www.tiktok.com/@juz40_aizhurekter/video/7588646544140684555"
-  },
-  {
-   "user": "juz40_online1",
-   "nickname": "juz40_online",
-   "desc": "Жазира келдііі😭😱🤯#рекомендации #juz40online ",
-   "views": 121300,
-   "likes": 7734,
-   "comments": 57,
-   "link": "https://www.tiktok.com/@juz40_online1/video/7667963389800500487"
-  },
-  {
-   "user": "juz40_ielts",
-   "nickname": "juz40_ielts",
-   "desc": "Парақшаға тіркелген адам 140 балл алсын 😍😍😍 #juz40 #juz40online #рек #140балл #ұбт ",
-   "views": 120900,
-   "likes": 12200,
-   "comments": 64,
-   "link": "https://www.tiktok.com/@juz40_ielts/video/7624092980659424532"
-  },
-  {
-   "user": "juz40_online1",
-   "nickname": "juz40_online",
-   "desc": "Қазақстанда мынадай түлектер кеші әлі өтпеді🔥#рекомендации #juz40online ",
-   "views": 114700,
-   "likes": 6625,
-   "comments": 75,
-   "link": "https://www.tiktok.com/@juz40_online1/video/7666112882953817362"
   },
   {
    "user": "as.yya.i",
@@ -633,33 +508,6 @@
    "link": "https://www.tiktok.com/@as.yya.i/video/7668685026162412820"
   },
   {
-   "user": "juz40.junior",
-   "nickname": "juz40.junior",
-   "desc": "Мәссаған🤩😱#juz40 #juz40junior #fyp #juz40online #түлектеркешіjuz40 #juz40пен140 #ұбт #ент ",
-   "views": 103800,
-   "likes": 4493,
-   "comments": 85,
-   "link": "https://www.tiktok.com/@juz40.junior/video/7526588791151185158"
-  },
-  {
-   "user": "juz40_junior_",
-   "nickname": "juz40_junior_",
-   "desc": "Парақшаға тіркелген жанға 140 балл бұйырсын!😍🔥❤️‍🔥 #juz40 #juz40пен140 #140балл #juz40online ",
-   "views": 99000,
-   "likes": 10000,
-   "comments": 156,
-   "link": "https://www.tiktok.com/@juz40_junior_/video/7645018635588652309"
-  },
-  {
-   "user": "juz40_karimushaas",
-   "nickname": "juz40_karimushaas",
-   "desc": "Қазір бәрі солай өзің жейтін шығар,неге мен ол сияқты стдан жоғары алмаймын деп,бірақ біз ол адам емеспіз.Ең бастысы-әре",
-   "views": 98900,
-   "likes": 10700,
-   "comments": 30,
-   "link": "https://www.tiktok.com/@juz40_karimushaas/video/7562151665424403723"
-  },
-  {
    "user": "isabek_malika_",
    "nickname": "Малика💙",
    "desc": "Қалай ойлайсындар кешіре ме? #juz40jurekte #juz40fest26 #fyp #juz40online ",
@@ -669,33 +517,6 @@
    "link": "https://www.tiktok.com/@isabek_malika_/video/7670979204380429586"
   },
   {
-   "user": "juz40_online1",
-   "nickname": "juz40_online",
-   "desc": "Кураторыңды белгіле🤣👊🏻#рекомендации #juz40online ",
-   "views": 92600,
-   "likes": 10600,
-   "comments": 127,
-   "link": "https://www.tiktok.com/@juz40_online1/video/7662103638441069831"
-  },
-  {
-   "user": "juz40.junior",
-   "nickname": "juz40.junior",
-   "desc": "Шошып кетесіңғой😂😂 #juz40online #juz40 ",
-   "views": 91900,
-   "likes": 9271,
-   "comments": 30,
-   "link": "https://www.tiktok.com/@juz40.junior/video/7547721125585865989"
-  },
-  {
-   "user": "juz40_online1",
-   "nickname": "juz40_online",
-   "desc": "Юрист таңдаған досыңа жібер✅#juz40online #рекомендации ",
-   "views": 90500,
-   "likes": 2536,
-   "comments": 53,
-   "link": "https://www.tiktok.com/@juz40_online1/video/7667496250282953991"
-  },
-  {
    "user": "juz40juregimde",
    "nickname": "English language🇬🇧🩷",
    "desc": "ерекше дресс код😍😍 #ұбт #juz40jurekte #recommendations #прикол #ент ",
@@ -703,15 +524,6 @@
    "likes": 5423,
    "comments": 45,
    "link": "https://www.tiktok.com/@juz40juregimde/video/7672310085380508946"
-  },
-  {
-   "user": "juz40_online1",
-   "nickname": "juz40_online",
-   "desc": "💅✨#рекомендации #juz40online ",
-   "views": 82700,
-   "likes": 5922,
-   "comments": 21,
-   "link": "https://www.tiktok.com/@juz40_online1/video/7674240438819212552"
   },
   {
    "user": "juz40_festtt",
@@ -732,24 +544,6 @@
    "link": "https://www.tiktok.com/@aainatuly_/video/7669795710765649172"
   },
   {
-   "user": "inksxwl_",
-   "nickname": "Ingkar Kydyrbek",
-   "desc": "@Z. @kausar @Алуа З juz40 арқылы танысқан жақындарым💛 #mnu #inksxwl_ #juz40 #juz40online ",
-   "views": 75300,
-   "likes": 4807,
-   "comments": 36,
-   "link": "https://www.tiktok.com/@inksxwl_/video/7673105426505895176"
-  },
-  {
-   "user": "juz40.geography",
-   "nickname": "juz40.geography",
-   "desc": "140 балл иегеріміз дайындықты шілде айынан бастауға кеңес береді 💙 Шілде ағымына тіркелуге санаулы күндер қалды 💪🏻 JUZ40",
-   "views": 75300,
-   "likes": 2659,
-   "comments": 13,
-   "link": "https://www.tiktok.com/@juz40.geography/video/7655308937381645589"
-  },
-  {
    "user": "abdullaeva.b1",
    "nickname": "77bkzhnvna",
    "desc": "Juz40 тың арқасында! #juz40jurekte ",
@@ -766,42 +560,6 @@
    "likes": 6633,
    "comments": 37,
    "link": "https://www.tiktok.com/@juz40.enlik/video/7668013727421107477"
-  },
-  {
-   "user": "juz40_aizhurekter",
-   "nickname": "juz40_aizhurekter",
-   "desc": "Сондада 10/10 алатын қызымғой🥰🫶🏻 #juz40online #junior #aizhurek #chemistry ",
-   "views": 54500,
-   "likes": 2449,
-   "comments": 5,
-   "link": "https://www.tiktok.com/@juz40_aizhurekter/video/7655443488330370311"
-  },
-  {
-   "user": "juz40_karimushaas",
-   "nickname": "juz40_karimushaas",
-   "desc": "Ст уақытында бұлай қайталамаңдар,қате тірлік #juz40online #juz40 #рекомен #recommendation #рекомендация ",
-   "views": 45400,
-   "likes": 3705,
-   "comments": 14,
-   "link": "https://www.tiktok.com/@juz40_karimushaas/video/7622210679331720455"
-  },
-  {
-   "user": "juz40_online1",
-   "nickname": "juz40_online",
-   "desc": "Кукла😍💔#рекомендации #juz40online ",
-   "views": 45400,
-   "likes": 3857,
-   "comments": 28,
-   "link": "https://www.tiktok.com/@juz40_online1/video/7669408881688218888"
-  },
-  {
-   "user": "juz40pr",
-   "nickname": "juz40.pr",
-   "desc": "бұйырсын🙏🏻 #juz40 #рекоминдации #juz40 #рекомендации❤ #juz40online ",
-   "views": 43500,
-   "likes": 3224,
-   "comments": 24,
-   "link": "https://www.tiktok.com/@juz40pr/video/7653439771179486472"
   },
   {
    "user": "erkinbek_0015",
@@ -822,15 +580,6 @@
    "link": "https://www.tiktok.com/@ayanafromjuz40/video/7670163582578887954"
   },
   {
-   "user": "juz40.community",
-   "nickname": "JUZ40 COMMUNITY",
-   "desc": "Күтіп жүргендер бар ма?#juz40online #juz40 #community #reels ",
-   "views": 38600,
-   "likes": 1728,
-   "comments": 21,
-   "link": "https://www.tiktok.com/@juz40.community/video/7670115812849618196"
-  },
-  {
    "user": "nur._banu",
    "nickname": "Nurbanu / JUZ40❤️",
    "desc": "@juz40_online1 #juz40jurekte #juz40online #ұбт #әдебтіл #elbruso ",
@@ -849,24 +598,6 @@
    "link": "https://www.tiktok.com/@isabek_malika_/video/7671200782426852616"
   },
   {
-   "user": "juz40_online1",
-   "nickname": "juz40_online",
-   "desc": "Психолог болатын досыңа жібер😱#рекомендации #juz40online ",
-   "views": 32300,
-   "likes": 1094,
-   "comments": 20,
-   "link": "https://www.tiktok.com/@juz40_online1/video/7670805944728603911"
-  },
-  {
-   "user": "juz40.tarikh",
-   "nickname": "juz40tarikh",
-   "desc": "140 балл иегерлері секілді тұрғойй🙂‍↔️ #juz40online  #140балл ",
-   "views": 30200,
-   "likes": 1285,
-   "comments": 22,
-   "link": "https://www.tiktok.com/@juz40.tarikh/video/7674237830939331858"
-  },
-  {
    "user": "nur._banu",
    "nickname": "Nurbanu / JUZ40❤️",
    "desc": "Мендеғанама сондай болғаны?🤣😭@juz40_online1 #juz40jurekte #juz40online #әдебтіл #ұбт #elbruso ",
@@ -874,24 +605,6 @@
    "likes": 2896,
    "comments": 63,
    "link": "https://www.tiktok.com/@nur._banu/video/7669511069219523847"
-  },
-  {
-   "user": "nunanuriii",
-   "nickname": "⊹ 𝑁𝑢𝑟𝑖𝑙𝑎",
-   "desc": "Тамыз ағымына тіркеліп үлгер 🎯 #juz40online #juz40пен140қа #juz40junior #juz40math ",
-   "views": 30100,
-   "likes": 1744,
-   "comments": 32,
-   "link": "https://www.tiktok.com/@nunanuriii/video/7668688451935554834"
-  },
-  {
-   "user": "juz40_junior_",
-   "nickname": "juz40_junior_",
-   "desc": "Парақшаға тіркелген жанға 140 балл бұйырсын🔥🫶🏻❤️ #juz40 #juz40пен140 #140балл #juz40_online ",
-   "views": 29100,
-   "likes": 1116,
-   "comments": 17,
-   "link": "https://www.tiktok.com/@juz40_junior_/video/7661335707809565973"
   },
   {
    "user": "fary.akhmetkali",
@@ -921,15 +634,6 @@
    "link": "https://www.tiktok.com/@140oneluv/video/7669406011106528532"
   },
   {
-   "user": "juz40.dzht",
-   "nickname": "juz40.dzht",
-   "desc": "ТАМЫЗ АЙЫНА ТІРКЕЛУГЕ ҮЛГЕР#джт #дүниежүзітарихы #ұбт2027 #juz40 #juz40online ",
-   "views": 25000,
-   "likes": 2759,
-   "comments": 12,
-   "link": "https://www.tiktok.com/@juz40.dzht/video/7668061840324480274"
-  },
-  {
    "user": "omirzakovaaa_k",
    "nickname": "kunai",
    "desc": "#juz40online #juz40jurekte #fyp #juz40fest ",
@@ -939,15 +643,6 @@
    "link": "https://www.tiktok.com/@omirzakovaaa_k/video/7671322181917314325"
   },
   {
-   "user": "juz40.dzht",
-   "nickname": "juz40.dzht",
-   "desc": "ДЖТАНГЛ Таңдау пән бойынша ТОП-10 универ 2 бөлім ❤️‍🔥❤️‍🔥❤️‍🔥 #juz40online #джтангл #dzht ",
-   "views": 23500,
-   "likes": 1376,
-   "comments": 17,
-   "link": "https://www.tiktok.com/@juz40.dzht/video/7620840999522258196"
-  },
-  {
    "user": "aainatuly_",
    "nickname": "aainatuly_",
    "desc": "Жаман ойламаймыз,біз просто митқа кіріп өсек айтамыз🤣🤣🤣🤣 @kaus @zhuldyzai.mussayeva @juz40_online #juz40online #juz40gen",
@@ -955,6 +650,249 @@
    "likes": 1231,
    "comments": 22,
    "link": "https://www.tiktok.com/@aainatuly_/video/7672704282520587540"
+  },
+  {
+   "user": "ayanafromjuz40",
+   "nickname": "ayanafromjuz40",
+   "desc": "өзіме өтеді😅@Jasulan Sensei #ayanafromjuz40 #juz40jurekte #study ",
+   "views": 22400,
+   "likes": 1443,
+   "comments": 16,
+   "link": "https://www.tiktok.com/@ayanafromjuz40/video/7668784521059355912"
+  },
+  {
+   "user": "fary.akhmetkali",
+   "nickname": "Fary😜",
+   "desc": "Карантин құртты ше сол🤣🤣#juz40 #juz40jurekte #Meme #рееек @juz40_online",
+   "views": 22100,
+   "likes": 1604,
+   "comments": 1,
+   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7672785662533209352"
+  },
+  {
+   "user": "araiikas1",
+   "nickname": "araiikas",
+   "desc": "#fyp #репост #juz40jurekte ",
+   "views": 20400,
+   "likes": 896,
+   "comments": 28,
+   "link": "https://www.tiktok.com/@araiikas1/video/7669807729166355720"
+  },
+  {
+   "user": "juz40jurekte",
+   "nickname": "juz40jurekte",
+   "desc": "сақтап ал ♥️#juz40jurekte #juz40online #грант #музыка",
+   "views": 19000,
+   "likes": 736,
+   "comments": 4,
+   "link": "https://www.tiktok.com/@juz40jurekte/video/7668262401849969941"
+  },
+  {
+   "user": "ablaevvnaa_",
+   "nickname": "Aigerim",
+   "desc": "Грант женпу❤️😭#juz40jurekte ",
+   "views": 15100,
+   "likes": 886,
+   "comments": 83,
+   "link": "https://www.tiktok.com/@ablaevvnaa_/video/7671266205499428117"
+  },
+  {
+   "user": "theakimhanov",
+   "nickname": "theakimhanov",
+   "desc": "Juz40-та Конкурсқа қатысып жатыр едім.Қолдау қажетт🥹🙏🏻🙏🏻 #juz40jurekte #juz40online #fypシ  @zhuldyzai.mussayeva @juz40_o",
+   "views": 15000,
+   "likes": 277,
+   "comments": 37,
+   "link": "https://www.tiktok.com/@theakimhanov/video/7669761677532974357"
+  },
+  {
+   "user": "a.aixss",
+   "nickname": "aixss",
+   "desc": "@juz40_online #juz40online #juz40jurekte #juz40 #рекомендации #creatorsearchinsights ",
+   "views": 14400,
+   "likes": 562,
+   "comments": 108,
+   "link": "https://www.tiktok.com/@a.aixss/video/7668365014448819463"
+  },
+  {
+   "user": "isabek_malika_",
+   "nickname": "Малика💙",
+   "desc": "#juz40jurekte #juz40online #fyp ",
+   "views": 13800,
+   "likes": 510,
+   "comments": 3,
+   "link": "https://www.tiktok.com/@isabek_malika_/video/7669504504244620552"
+  },
+  {
+   "user": "bek0shsh",
+   "nickname": "⚕️",
+   "desc": "@juz40_online @aida 🤍 #juz40jurekte #juz40 #ubt #aktobe #nazarbayevuniversity ",
+   "views": 11700,
+   "likes": 547,
+   "comments": 80,
+   "link": "https://www.tiktok.com/@bek0shsh/video/7668389905361276167"
+  },
+  {
+   "user": "isabek_malika_",
+   "nickname": "Малика💙",
+   "desc": "#juz40jurekte #juz40fest26 #fyp #juz40online #рек @juz40_online @juz40_fest ",
+   "views": 8490,
+   "likes": 193,
+   "comments": 2,
+   "link": "https://www.tiktok.com/@isabek_malika_/video/7670505822392241415"
+  },
+  {
+   "user": "juz40jurekte_fest",
+   "nickname": "juz40jurekte_fest",
+   "desc": "#juz40jurekte #rec",
+   "views": 7116,
+   "likes": 434,
+   "comments": 6,
+   "link": "https://www.tiktok.com/@juz40jurekte_fest/video/7671449582072597776"
+  },
+  {
+   "user": "juz40juregimde",
+   "nickname": "English language🇬🇧🩷",
+   "desc": "#juz40online #ұбт #recommendations #juz40jurekte #джтангл ",
+   "views": 6333,
+   "likes": 455,
+   "comments": 2,
+   "link": "https://www.tiktok.com/@juz40juregimde/video/7668971717863247122"
+  },
+  {
+   "user": "juz40_aruzzxq",
+   "nickname": "Juz40 | 🌬️Aruka",
+   "desc": "#juz40online #рекомендации #juz40пен140 #juz40jurekte #тамыздықтар ",
+   "views": 6133,
+   "likes": 586,
+   "comments": 6,
+   "link": "https://www.tiktok.com/@juz40_aruzzxq/video/7670522490220727568"
+  },
+  {
+   "user": "rayann8107",
+   "nickname": "𝐴𝑟-𝑅𝑎𝑦𝑎𝑛𝑛~",
+   "desc": "У бога другие планы 🙂‍↕️#fyp #globalrecommendations #juz40online #recommendations #juz40jurekte ",
+   "views": 6130,
+   "likes": 365,
+   "comments": 6,
+   "link": "https://www.tiktok.com/@rayann8107/video/7672802221171445012"
+  },
+  {
+   "user": "aainatuly_",
+   "nickname": "aainatuly_",
+   "desc": "#переписка #juz40jurekte #поддержка #рекомендации #ұбт ",
+   "views": 5791,
+   "likes": 226,
+   "comments": 18,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7673118193992355093"
+  },
+  {
+   "user": "juz40jurekte_fest",
+   "nickname": "juz40jurekte_fest",
+   "desc": "Үлгеремба??😔😔#juz40jurekte #juz40online ",
+   "views": 5374,
+   "likes": 363,
+   "comments": 6,
+   "link": "https://www.tiktok.com/@juz40jurekte_fest/video/7672027269363256577"
+  },
+  {
+   "user": "rayann8107",
+   "nickname": "𝐴𝑟-𝑅𝑎𝑦𝑎𝑛𝑛~",
+   "desc": "Қолдау керек ағайын Juz40Fest ке қатысамынн!!!#juz40jurekte#fyp#recommendations #globalrecommendations #ұбт2026 ",
+   "views": 5264,
+   "likes": 349,
+   "comments": 25,
+   "link": "https://www.tiktok.com/@rayann8107/video/7668028138957393173"
+  },
+  {
+   "user": "aksatikyzy_",
+   "nickname": "Сая🐒/ JUZ40",
+   "desc": "#juz40jurekte #juz40online #studytok ",
+   "views": 5263,
+   "likes": 514,
+   "comments": 11,
+   "link": "https://www.tiktok.com/@aksatikyzy_/video/7670517729668992264"
+  },
+  {
+   "user": "isabek_malika_",
+   "nickname": "Малика💙",
+   "desc": "Визуализация #juz40jurekte #juz40online #juz40fest26 @juz40_online ",
+   "views": 5263,
+   "likes": 163,
+   "comments": 1,
+   "link": "https://www.tiktok.com/@isabek_malika_/video/7668969159190973704"
+  },
+  {
+   "user": "juz40fest_",
+   "nickname": "juz40fest_",
+   "desc": "#fyp #juz40online #juz40community #juz40fest #juz40jurekte ",
+   "views": 5172,
+   "likes": 597,
+   "comments": 3,
+   "link": "https://www.tiktok.com/@juz40fest_/video/7670928157008088327"
+  },
+  {
+   "user": "aainatuly_",
+   "nickname": "aainatuly_",
+   "desc": "Пацаны не подведите✊🏻@zhuldyzai.mussayeva @juz40_online  #juz40online #мужскаясолидарность #rek #juz40online #juz40jurek",
+   "views": 5157,
+   "likes": 535,
+   "comments": 35,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7671020282546621717"
+  },
+  {
+   "user": "isabek_malika_",
+   "nickname": "Малика💙",
+   "desc": "#juz40jurekte #juz40fest26 #рек #juz40online #fyp ",
+   "views": 4728,
+   "likes": 172,
+   "comments": 4,
+   "link": "https://www.tiktok.com/@isabek_malika_/video/7672152127728258311"
+  },
+  {
+   "user": "aainatuly_",
+   "nickname": "aainatuly_",
+   "desc": "Еңбек ақталсын!🫶🏻 07.08 15:00 #грант #140 #juz40jurekte #рек #курс ",
+   "views": 4166,
+   "likes": 265,
+   "comments": 7,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7671159483799768340"
+  },
+  {
+   "user": "future.it.girl2",
+   "nickname": "RAYA || JUZ40🌷🇺🇸",
+   "desc": "Juz40-пен 140-қа🩷 #juz40jurekte #foryoupage #aesthetic #cinematic #creatorsearchinsights ",
+   "views": 3981,
+   "likes": 159,
+   "comments": 26,
+   "link": "https://www.tiktok.com/@future.it.girl2/video/7668245869933710610"
+  },
+  {
+   "user": "aainatuly_",
+   "nickname": "aainatuly_",
+   "desc": "Juz40 FEST😍🔥  #рекомендации  #140балл #juz40jurekte  @zhuldyzai.mussayeva @juz40_online ",
+   "views": 3611,
+   "likes": 393,
+   "comments": 18,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7669043359155113237"
+  },
+  {
+   "user": "aainatuly_",
+   "nickname": "aainatuly_",
+   "desc": "@juz40_online @zhuldyzai.mussayeva  #juz40online #куратор #juz40jurekte #жиза #rec ",
+   "views": 3297,
+   "likes": 134,
+   "comments": 32,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7669498214537563413"
+  },
+  {
+   "user": "uldanaijuz40",
+   "nickname": "uldanaii",
+   "desc": "#juz40jurekte #fyp #juz40online #ент #100к ",
+   "views": 2729,
+   "likes": 115,
+   "comments": 9,
+   "link": "https://www.tiktok.com/@uldanaijuz40/video/7668733025982745877"
   }
  ]
 }
