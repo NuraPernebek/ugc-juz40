@@ -5,7 +5,7 @@ from collections import defaultdict
 
 # ==== ТІЗІМДІ ӨЗІҢІЗ РЕТТЕҢІЗ: конкурс хэштегтері ====
 CONTESTS = [
-    "juz40jurekte",
+    "sensulujuz40",
     "juz40online",
     "juz40fest26",
     "juz40fest",
