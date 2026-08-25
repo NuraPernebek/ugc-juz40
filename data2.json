@@ -1,0 +1,925 @@
+{
+ "updatedAt": "2026-08-25T13:39:50.846147+00:00",
+ "hashtags": [
+  "sensulujuz40"
+ ],
+ "totals": {
+  "videos": 143,
+  "views": 1278948,
+  "likes": 96471,
+  "comments": 7988,
+  "users": 59
+ },
+ "byHashtag": [
+  {
+   "tag": "sensulujuz40",
+   "videos": 143,
+   "views": 1278948,
+   "likes": 96471
+  }
+ ],
+ "topUsers": [
+  {
+   "user": "kanat1ovnnaaa",
+   "views": 235200,
+   "likes": 7773,
+   "comments": 160,
+   "shares": 258,
+   "posts": 3,
+   "nickname": "kanat1ovnnaaa"
+  },
+  {
+   "user": "s.serzhanovna_",
+   "nickname": "aruzhan",
+   "views": 101900,
+   "likes": 2294,
+   "comments": 25,
+   "shares": 30,
+   "posts": 1
+  },
+  {
+   "user": "aliyasrk99",
+   "views": 83500,
+   "likes": 7407,
+   "comments": 62,
+   "shares": 14,
+   "posts": 1,
+   "nickname": "aliyasrk99"
+  },
+  {
+   "user": "99.aiym",
+   "nickname": "ай китти 🎀",
+   "views": 82900,
+   "likes": 7729,
+   "comments": 74,
+   "shares": 38,
+   "posts": 1
+  },
+  {
+   "user": "inksxwl_",
+   "views": 73600,
+   "likes": 6980,
+   "comments": 78,
+   "shares": 34,
+   "posts": 1,
+   "nickname": "Ingkar Kydyrbek"
+  },
+  {
+   "user": "balausa_bayanbek",
+   "views": 67247,
+   "likes": 5643,
+   "comments": 235,
+   "shares": 118,
+   "posts": 3,
+   "nickname": "Balausa Bayanbek"
+  },
+  {
+   "user": "_aishkka",
+   "views": 65050,
+   "likes": 7819,
+   "comments": 855,
+   "shares": 240,
+   "posts": 11,
+   "nickname": "aishka"
+  },
+  {
+   "user": "serikovnnm",
+   "views": 58519,
+   "likes": 5599,
+   "comments": 269,
+   "shares": 145,
+   "posts": 2,
+   "nickname": "aiza"
+  },
+  {
+   "user": "toukahima",
+   "views": 35265,
+   "likes": 2788,
+   "comments": 236,
+   "shares": 85,
+   "posts": 2,
+   "nickname": "toukahima"
+  },
+  {
+   "user": "nurbolovna.n_",
+   "views": 32800,
+   "likes": 3573,
+   "comments": 256,
+   "shares": 91,
+   "posts": 1,
+   "nickname": "nurgul"
+  },
+  {
+   "user": "erbolvnaaaa_s",
+   "views": 32336,
+   "likes": 4676,
+   "comments": 323,
+   "shares": 130,
+   "posts": 2,
+   "nickname": "Шахон"
+  },
+  {
+   "user": "yeeleam",
+   "nickname": "yenleak",
+   "views": 29600,
+   "likes": 2402,
+   "comments": 13,
+   "shares": 52,
+   "posts": 1
+  },
+  {
+   "user": "shakhvizazh",
+   "views": 29257,
+   "likes": 1909,
+   "comments": 224,
+   "shares": 94,
+   "posts": 2,
+   "nickname": "shakhvizazh"
+  },
+  {
+   "user": "ku1tuma_h",
+   "views": 28892,
+   "likes": 1401,
+   "comments": 264,
+   "shares": 109,
+   "posts": 5,
+   "nickname": "on’"
+  },
+  {
+   "user": "aiiggwx",
+   "views": 26696,
+   "likes": 1990,
+   "comments": 391,
+   "shares": 348,
+   "posts": 14,
+   "nickname": "aiganym"
+  },
+  {
+   "user": "aissa_ww",
+   "views": 26440,
+   "likes": 2551,
+   "comments": 300,
+   "shares": 72,
+   "posts": 4,
+   "nickname": "ayash 🦢"
+  },
+  {
+   "user": "_kanatovnaa_aya",
+   "views": 26414,
+   "likes": 3493,
+   "comments": 78,
+   "shares": 12,
+   "posts": 2,
+   "nickname": "ая"
+  },
+  {
+   "user": "davinci_askr",
+   "views": 22100,
+   "likes": 3614,
+   "comments": 195,
+   "shares": 65,
+   "posts": 4,
+   "nickname": "juz40_DaVinci"
+  },
+  {
+   "user": "_aisuluutepova_",
+   "views": 21600,
+   "likes": 1769,
+   "comments": 201,
+   "shares": 97,
+   "posts": 1,
+   "nickname": "_aisuluutepova_"
+  },
+  {
+   "user": "dbtik1",
+   "views": 20949,
+   "likes": 299,
+   "comments": 40,
+   "shares": 17,
+   "posts": 2,
+   "nickname": "💉Сезім | Диабет 💊"
+  },
+  {
+   "user": "mennnsuluuu",
+   "views": 17737,
+   "likes": 1599,
+   "comments": 490,
+   "shares": 140,
+   "posts": 4,
+   "nickname": "сұлудың ойларымен"
+  },
+  {
+   "user": "r.maralym",
+   "views": 16553,
+   "likes": 2078,
+   "comments": 236,
+   "shares": 72,
+   "posts": 3,
+   "nickname": "akma | JUZ40"
+  },
+  {
+   "user": "arihkiis",
+   "views": 14214,
+   "likes": 558,
+   "comments": 49,
+   "shares": 34,
+   "posts": 4,
+   "nickname": "Arisha"
+  },
+  {
+   "user": "abaytegi",
+   "views": 13600,
+   "likes": 953,
+   "comments": 135,
+   "shares": 25,
+   "posts": 1,
+   "nickname": "abaytegi"
+  },
+  {
+   "user": "1nnll.ym",
+   "views": 13497,
+   "likes": 1159,
+   "comments": 53,
+   "shares": 17,
+   "posts": 2,
+   "nickname": "1nnll.ym"
+  },
+  {
+   "user": "a1zhanarrrrr__",
+   "views": 12955,
+   "likes": 867,
+   "comments": 301,
+   "shares": 131,
+   "posts": 4,
+   "nickname": "a1zhanarrrrr__"
+  },
+  {
+   "user": "zh1_7_",
+   "views": 9125,
+   "likes": 584,
+   "comments": 225,
+   "shares": 153,
+   "posts": 5,
+   "nickname": "zh🇺🇸"
+  },
+  {
+   "user": "seninamiina",
+   "views": 7476,
+   "likes": 222,
+   "comments": 70,
+   "shares": 8,
+   "posts": 7,
+   "nickname": "Amina"
+  },
+  {
+   "user": "rrabigaa",
+   "views": 6715,
+   "likes": 699,
+   "comments": 126,
+   "shares": 11,
+   "posts": 3,
+   "nickname": "Rabiğa🤎"
+  },
+  {
+   "user": "llunvlt",
+   "views": 6512,
+   "likes": 258,
+   "comments": 49,
+   "shares": 22,
+   "posts": 2,
+   "nickname": "altyn’ai | JUZ40-skaya🌷"
+  },
+  {
+   "user": "jazik82",
+   "views": 6241,
+   "likes": 129,
+   "comments": 79,
+   "shares": 14,
+   "posts": 3,
+   "nickname": "✨✨✨"
+  },
+  {
+   "user": "z.tolepbergenx",
+   "views": 5069,
+   "likes": 1039,
+   "comments": 206,
+   "shares": 46,
+   "posts": 2,
+   "nickname": "z.tolepbergenx"
+  },
+  {
+   "user": "kdoon_",
+   "views": 4922,
+   "likes": 849,
+   "comments": 308,
+   "shares": 37,
+   "posts": 4,
+   "nickname": "𝒹𝒶𝓃𝒾𝑒𝓁𝓁𝒶"
+  },
+  {
+   "user": "fruennta",
+   "views": 4879,
+   "likes": 421,
+   "comments": 192,
+   "shares": 61,
+   "posts": 2,
+   "nickname": "ferdaus"
+  },
+  {
+   "user": "userlolpineapple",
+   "views": 4376,
+   "likes": 419,
+   "comments": 210,
+   "shares": 21,
+   "posts": 3,
+   "nickname": "ананас"
+  },
+  {
+   "user": "merupage",
+   "views": 4199,
+   "likes": 241,
+   "comments": 119,
+   "shares": 44,
+   "posts": 2,
+   "nickname": "merupage"
+  },
+  {
+   "user": "merekushaa___",
+   "views": 3297,
+   "likes": 260,
+   "comments": 32,
+   "shares": 9,
+   "posts": 2,
+   "nickname": "merekushaa🤍"
+  },
+  {
+   "user": "brunette_bombshell1",
+   "views": 2751,
+   "likes": 511,
+   "comments": 216,
+   "shares": 10,
+   "posts": 5,
+   "nickname": "brunette_bombshell1"
+  },
+  {
+   "user": "erlankyzym_m",
+   "views": 2166,
+   "likes": 232,
+   "comments": 77,
+   "shares": 7,
+   "posts": 1,
+   "nickname": "suluym"
+  },
+  {
+   "user": "aminass_diary_",
+   "views": 1912,
+   "likes": 58,
+   "comments": 50,
+   "shares": 12,
+   "posts": 1,
+   "nickname": "askhatovnaass"
+  },
+  {
+   "user": "kausvxr",
+   "views": 1823,
+   "likes": 287,
+   "comments": 17,
+   "shares": 12,
+   "posts": 1,
+   "nickname": "kausvxr"
+  },
+  {
+   "user": "kkydyrbekk",
+   "views": 1795,
+   "likes": 165,
+   "comments": 43,
+   "shares": 7,
+   "posts": 1,
+   "nickname": "жанка"
+  },
+  {
+   "user": "inzhu.izm",
+   "views": 1641,
+   "likes": 67,
+   "comments": 21,
+   "shares": 5,
+   "posts": 2,
+   "nickname": "inzhu"
+  },
+  {
+   "user": "_aiymmoon_",
+   "views": 1548,
+   "likes": 130,
+   "comments": 40,
+   "shares": 19,
+   "posts": 1,
+   "nickname": "Aiym"
+  },
+  {
+   "user": "arsi0_s",
+   "views": 1366,
+   "likes": 155,
+   "comments": 88,
+   "shares": 184,
+   "posts": 1,
+   "nickname": "arai"
+  },
+  {
+   "user": "amiinsh_1",
+   "views": 1361,
+   "likes": 78,
+   "comments": 36,
+   "shares": 14,
+   "posts": 1,
+   "nickname": "✦"
+  },
+  {
+   "user": "aiskza",
+   "views": 1259,
+   "likes": 76,
+   "comments": 53,
+   "shares": 49,
+   "posts": 1,
+   "nickname": "Aiza"
+  },
+  {
+   "user": "mvn.ak",
+   "views": 1152,
+   "likes": 43,
+   "comments": 18,
+   "shares": 13,
+   "posts": 1,
+   "nickname": "madinelle🦢"
+  },
+  {
+   "user": "nunewwxx_",
+   "views": 1145,
+   "likes": 59,
+   "comments": 6,
+   "shares": 5,
+   "posts": 1,
+   "nickname": "nunewwxx"
+  },
+  {
+   "user": "ayakoz_apaidyn_alaulary",
+   "views": 1120,
+   "likes": 54,
+   "comments": 16,
+   "shares": 3,
+   "posts": 1,
+   "nickname": "AYAUDŸÑ ALAULARY"
+  }
+ ],
+ "topVideos": [
+  {
+   "user": "kanat1ovnnaaa",
+   "nickname": "kanat1ovnnaaa",
+   "desc": "Жүз40 үшін жан пида❤️@zhuldyzai.mussayeva @juz40_online #sensulujuz40 #рекомендации #ештеңе_жазғым_кеп_тұрған_жоқ #elbru",
+   "views": 190500,
+   "likes": 5308,
+   "comments": 52,
+   "link": "https://www.tiktok.com/@kanat1ovnnaaa/video/7676894725835607304"
+  },
+  {
+   "user": "s.serzhanovna_",
+   "nickname": "aruzhan",
+   "desc": "🫣 #sensulujuz40 #juz40 @juz40_online ",
+   "views": 101900,
+   "likes": 2294,
+   "comments": 25,
+   "link": "https://www.tiktok.com/@s.serzhanovna_/video/7674561591551069458"
+  },
+  {
+   "user": "aliyasrk99",
+   "nickname": "aliyasrk99",
+   "desc": "Galaxy makeup 🌌🪐 #sensulujuz40 #sensulu #juz40online #fyp #sensulujuz40 ",
+   "views": 83500,
+   "likes": 7407,
+   "comments": 62,
+   "link": "https://www.tiktok.com/@aliyasrk99/video/7677290011212909845"
+  },
+  {
+   "user": "99.aiym",
+   "nickname": "ай китти 🎀",
+   "desc": "4 жарвм сағатым кетті қолдап кетіңдерш 🩵 #sensulujuz40 ",
+   "views": 82900,
+   "likes": 7729,
+   "comments": 74,
+   "link": "https://www.tiktok.com/@99.aiym/video/7676594323177180423"
+  },
+  {
+   "user": "inksxwl_",
+   "nickname": "Ingkar Kydyrbek",
+   "desc": "Детская мечта #juz40 #inksxwl_ #140 #sensulujuz40",
+   "views": 73600,
+   "likes": 6980,
+   "comments": 78,
+   "link": "https://www.tiktok.com/@inksxwl_/video/7674207130240421127"
+  },
+  {
+   "user": "balausa_bayanbek",
+   "nickname": "Balausa Bayanbek",
+   "desc": "#sensulujuz40#juz40fest #juz40online@juz40_fest#foryou🤍🤍#enlik💙 ",
+   "views": 54100,
+   "likes": 4439,
+   "comments": 144,
+   "link": "https://www.tiktok.com/@balausa_bayanbek/video/7676230673291611399"
+  },
+  {
+   "user": "serikovnnm",
+   "nickname": "aiza",
+   "desc": "#sensulujuz40 #eiphoria #makeup #fyp #galaxymakeup ",
+   "views": 48800,
+   "likes": 5013,
+   "comments": 169,
+   "link": "https://www.tiktok.com/@serikovnnm/video/7676608704854117653"
+  },
+  {
+   "user": "toukahima",
+   "nickname": "toukahima",
+   "desc": "Пожалуйста поддержите🫶🏻 @juz40_fest @juz40_online #fyp #toukahima #sensulujuz40 #juz40 #sensulu ",
+   "views": 34300,
+   "likes": 2671,
+   "comments": 213,
+   "link": "https://www.tiktok.com/@toukahima/video/7676932353096305927"
+  },
+  {
+   "user": "_aishkka",
+   "nickname": "aishka",
+   "desc": "@juz40_online @juz40_fest #sensulujuz40 #juz40fest #juz40online #fyp ",
+   "views": 34200,
+   "likes": 3732,
+   "comments": 234,
+   "link": "https://www.tiktok.com/@_aishkka/video/7676463046734171400"
+  },
+  {
+   "user": "nurbolovna.n_",
+   "nickname": "nurgul",
+   "desc": "2 күндік еңбек🥹 жду вашей поддержки🫶🏻 (1 күн қалды😭) #sensulujuz40  @juz40_fest @zhuldyzai.mussayeva ",
+   "views": 32800,
+   "likes": 3573,
+   "comments": 256,
+   "link": "https://www.tiktok.com/@nurbolovna.n_/video/7677662465743768840"
+  },
+  {
+   "user": "erbolvnaaaa_s",
+   "nickname": "Шахон",
+   "desc": "Конкурссс #sensulujuz40 #sensulu #juz40 #galaxy #creativemakeup @juz40_fest @juz40_online ",
+   "views": 31200,
+   "likes": 4515,
+   "comments": 308,
+   "link": "https://www.tiktok.com/@erbolvnaaaa_s/video/7676435997906734353"
+  },
+  {
+   "user": "yeeleam",
+   "nickname": "yenleak",
+   "desc": "мой самый лучший переход🩶#sensulujuz40 #fyp #galaxy #juz40online ",
+   "views": 29600,
+   "likes": 2402,
+   "comments": 13,
+   "link": "https://www.tiktok.com/@yeeleam/video/7676124058425052437"
+  },
+  {
+   "user": "shakhvizazh",
+   "nickname": "shakhvizazh",
+   "desc": "galaxy make up 🌌 #rek #shakhvizazh #sensulujuz40 #участвуювконкурсе #поддержка ",
+   "views": 27400,
+   "likes": 1785,
+   "comments": 144,
+   "link": "https://www.tiktok.com/@shakhvizazh/video/7674696305649749268"
+  },
+  {
+   "user": "kanat1ovnnaaa",
+   "nickname": "kanat1ovnnaaa",
+   "desc": "Апай шошып кетпесінн😔😂 @zhuldyzai.mussayeva @juz40_online #sensulujuz40 #хочуврек #juz40online #рекомендации #еркебулант",
+   "views": 26700,
+   "likes": 1178,
+   "comments": 26,
+   "link": "https://www.tiktok.com/@kanat1ovnnaaa/video/7676915606813297927"
+  },
+  {
+   "user": "_kanatovnaa_aya",
+   "nickname": "ая",
+   "desc": "😝😝😝 #sensulujuz40 #juz40online #juz40fest @juz40_fest @juz40_online ",
+   "views": 23000,
+   "likes": 3201,
+   "comments": 35,
+   "link": "https://www.tiktok.com/@_kanatovnaa_aya/video/7677285302586592520"
+  },
+  {
+   "user": "_aisuluutepova_",
+   "nickname": "_aisuluutepova_",
+   "desc": "Beauty and brain🩷🪐 #sensulujuz40 #juz40online #рекомендации #fyp #галактика ",
+   "views": 21600,
+   "likes": 1769,
+   "comments": 201,
+   "link": "https://www.tiktok.com/@_aisuluutepova_/video/7675000259440938260"
+  },
+  {
+   "user": "_aishkka",
+   "nickname": "aishka",
+   "desc": "поддержите пж #sensulujuz40 #juz40online #juz40fest #galaxymakeup #recommendations ",
+   "views": 21400,
+   "likes": 2870,
+   "comments": 193,
+   "link": "https://www.tiktok.com/@_aishkka/video/7676232785236872456"
+  },
+  {
+   "user": "ku1tuma_h",
+   "nickname": "on’",
+   "desc": "#fyp #makeup #sensulujuz40  #рекомендации #fyppppppppppppppppppppppp ",
+   "views": 20300,
+   "likes": 845,
+   "comments": 173,
+   "link": "https://www.tiktok.com/@ku1tuma_h/video/7675357915863059730"
+  },
+  {
+   "user": "dbtik1",
+   "nickname": "💉Сезім | Диабет 💊",
+   "desc": "Достар конкурсқа қатысып жатырмын, қолдау күтемін🫶🏻🥰 #диабет #сахарныйдиабет1тип #sensulujuz40 #juz40_online #elbruso ",
+   "views": 20000,
+   "likes": 226,
+   "comments": 33,
+   "link": "https://www.tiktok.com/@dbtik1/video/7676176233222114592"
+  },
+  {
+   "user": "kanat1ovnnaaa",
+   "nickname": "kanat1ovnnaaa",
+   "desc": "Айнаны сүрткенге уақыт жоқ🙈 @juz40_online @zhuldyzai.mussayeva #sensulujuz40 #хочуврек #juz40online #галактика #elbruso ",
+   "views": 18000,
+   "likes": 1287,
+   "comments": 82,
+   "link": "https://www.tiktok.com/@kanat1ovnnaaa/video/7676845604336651538"
+  },
+  {
+   "user": "davinci_askr",
+   "nickname": "juz40_DaVinci",
+   "desc": "#sensulujuz40 #juz40online #DaVinci ",
+   "views": 15800,
+   "likes": 2919,
+   "comments": 149,
+   "link": "https://www.tiktok.com/@davinci_askr/video/7676585702389320978"
+  },
+  {
+   "user": "r.maralym",
+   "nickname": "akma | JUZ40",
+   "desc": "@juz40_online @zhuldyzai.mussayeva #sensulujuz40 #galaxy #juz40online ",
+   "views": 13900,
+   "likes": 1782,
+   "comments": 133,
+   "link": "https://www.tiktok.com/@r.maralym/video/7676184646337563925"
+  },
+  {
+   "user": "abaytegi",
+   "nickname": "abaytegi",
+   "desc": "@juz40_fest @juz40_online @sensulu.official @zhuldyzai.mussayeva  #sensulujuz40 #juz40 #врекомендации #sensulu бокс бұйы",
+   "views": 13600,
+   "likes": 953,
+   "comments": 135,
+   "link": "https://www.tiktok.com/@abaytegi/video/7676652320783994120"
+  },
+  {
+   "user": "aissa_ww",
+   "nickname": "ayash 🦢",
+   "desc": "Конкурсқа арналған екінші мэйк ап💜 #sensulujuz40 #juz40 #sensulu @juz40_fest @zhuldyzai.mussayeva @juz40_online ",
+   "views": 13000,
+   "likes": 959,
+   "comments": 120,
+   "link": "https://www.tiktok.com/@aissa_ww/video/7677371147184327954"
+  },
+  {
+   "user": "1nnll.ym",
+   "nickname": "1nnll.ym",
+   "desc": "#sensulujuz40 #juz40 #juz40online #viralfypfamous we",
+   "views": 12600,
+   "likes": 1119,
+   "comments": 38,
+   "link": "https://www.tiktok.com/@1nnll.ym/video/7676920426890562837"
+  },
+  {
+   "user": "balausa_bayanbek",
+   "nickname": "Balausa Bayanbek",
+   "desc": "#sensulujuz40#juz40online💙#juz40fest#foryou ",
+   "views": 11400,
+   "likes": 1049,
+   "comments": 63,
+   "link": "https://www.tiktok.com/@balausa_bayanbek/video/7676234413872647431"
+  },
+  {
+   "user": "arihkiis",
+   "nickname": "Arisha",
+   "desc": "Басымдағы жұлдыз көрінді ма😂 #sensulujuz40 ",
+   "views": 10500,
+   "likes": 400,
+   "comments": 25,
+   "link": "https://www.tiktok.com/@arihkiis/video/7676827174946557204"
+  },
+  {
+   "user": "serikovnnm",
+   "nickname": "aiza",
+   "desc": "#sensulujuz40 #makeup #fyp #eiphoria ",
+   "views": 9719,
+   "likes": 586,
+   "comments": 100,
+   "link": "https://www.tiktok.com/@serikovnnm/video/7676598643775917333"
+  },
+  {
+   "user": "aissa_ww",
+   "nickname": "ayash 🦢",
+   "desc": "Қолдап кетейікк #sensulujuz40 #juz40 #sensulu #creatorsearchinsights @juz40_fest ",
+   "views": 7746,
+   "likes": 994,
+   "comments": 82,
+   "link": "https://www.tiktok.com/@aissa_ww/video/7676983331778596103"
+  },
+  {
+   "user": "mennnsuluuu",
+   "nickname": "сұлудың ойларымен",
+   "desc": "#sensulujuz40 #juzfest ",
+   "views": 7092,
+   "likes": 550,
+   "comments": 185,
+   "link": "https://www.tiktok.com/@mennnsuluuu/video/7675834193535880466"
+  },
+  {
+   "user": "mennnsuluuu",
+   "nickname": "сұлудың ойларымен",
+   "desc": "Актив жинауға үлгермеймін деп әпкем мен анама сонша жылап, жыр қылған бейнеролигім. Әрине, мінсіз деп айтпаймын сонда да",
+   "views": 6803,
+   "likes": 649,
+   "comments": 172,
+   "link": "https://www.tiktok.com/@mennnsuluuu/video/7676177455664696583"
+  },
+  {
+   "user": "a1zhanarrrrr__",
+   "nickname": "a1zhanarrrrr__",
+   "desc": "#sensulujuz40 жду поддержки😭🙏🏻🙏🏻 @JUZ40_FEST @juz40_online #fip #juz40fest ",
+   "views": 5545,
+   "likes": 484,
+   "comments": 61,
+   "link": "https://www.tiktok.com/@a1zhanarrrrr__/video/7675035503455980820"
+  },
+  {
+   "user": "llunvlt",
+   "nickname": "altyn’ai | JUZ40-skaya🌷",
+   "desc": "Дамуыма себепші болған Juz40-ым🩷 #sensulujuz40 #galaxymakeup #жуз40 #конкурс ",
+   "views": 5527,
+   "likes": 191,
+   "comments": 40,
+   "link": "https://www.tiktok.com/@llunvlt/video/7674393112449420552"
+  },
+  {
+   "user": "aiiggwx",
+   "nickname": "aiganym",
+   "desc": "Салют кәніі?  #juz40online #sensulujuz40 #реки  #kanyewest #салюткәні @juz40_online ",
+   "views": 5161,
+   "likes": 148,
+   "comments": 37,
+   "link": "https://www.tiktok.com/@aiiggwx/video/7674663516460092692"
+  },
+  {
+   "user": "a1zhanarrrrr__",
+   "nickname": "a1zhanarrrrr__",
+   "desc": "Перезаливаю #sensulujuz40 #fyp #juz40online #juz40fest #on ",
+   "views": 4877,
+   "likes": 153,
+   "comments": 51,
+   "link": "https://www.tiktok.com/@a1zhanarrrrr__/video/7675055599712865557"
+  },
+  {
+   "user": "aissa_ww",
+   "nickname": "ayash 🦢",
+   "desc": "#sensulujuz40 #sensulu @Juz40 ",
+   "views": 4403,
+   "likes": 467,
+   "comments": 65,
+   "link": "https://www.tiktok.com/@aissa_ww/video/7676984534352596231"
+  },
+  {
+   "user": "z.tolepbergenx",
+   "nickname": "z.tolepbergenx",
+   "desc": "@juz40_fest @juz40_online #sensulujuz40 #juz40online #rek #sensulu #fyp ",
+   "views": 4129,
+   "likes": 904,
+   "comments": 69,
+   "link": "https://www.tiktok.com/@z.tolepbergenx/video/7677105056306564372"
+  },
+  {
+   "user": "davinci_askr",
+   "nickname": "juz40_DaVinci",
+   "desc": "#sensulujuz40 #juz40online ",
+   "views": 4114,
+   "likes": 424,
+   "comments": 19,
+   "link": "https://www.tiktok.com/@davinci_askr/video/7676587551867604231"
+  },
+  {
+   "user": "aiiggwx",
+   "nickname": "aiganym",
+   "desc": "Поддержите пожалуйста 🥰🫶🏻 @juz40_online #sensulujuz40 #рекомендации #реки #juz40online ",
+   "views": 3952,
+   "likes": 280,
+   "comments": 68,
+   "link": "https://www.tiktok.com/@aiiggwx/video/7674299255418342677"
+  },
+  {
+   "user": "rrabigaa",
+   "nickname": "Rabiğa🤎",
+   "desc": "поддержкааа👀🩵 #рекомендации #sensulujuz40 ",
+   "views": 3842,
+   "likes": 418,
+   "comments": 83,
+   "link": "https://www.tiktok.com/@rrabigaa/video/7676888942540606738"
+  },
+  {
+   "user": "fruennta",
+   "nickname": "ferdaus",
+   "desc": "конкурс дейме?👀#sensulujuz40 #juz40fest #sensulu #рек ",
+   "views": 3788,
+   "likes": 267,
+   "comments": 126,
+   "link": "https://www.tiktok.com/@fruennta/video/7675800643931475207"
+  },
+  {
+   "user": "jazik82",
+   "nickname": "✨✨✨",
+   "desc": "Конкурс , 🙏🏻хочуу бокс от #sensulujuz40 #makeup #galaxymakeup #juz40online #juz40 ",
+   "views": 3590,
+   "likes": 46,
+   "comments": 29,
+   "link": "https://www.tiktok.com/@jazik82/video/7676905281112050964"
+  },
+  {
+   "user": "_kanatovnaa_aya",
+   "nickname": "ая",
+   "desc": "Қолдан келгенше қолдап жіберейік🙌🏽 #sensulujuz40 #juz40online #juz40fest ",
+   "views": 3414,
+   "likes": 292,
+   "comments": 43,
+   "link": "https://www.tiktok.com/@_kanatovnaa_aya/video/7676562589861612818"
+  },
+  {
+   "user": "ku1tuma_h",
+   "nickname": "on’",
+   "desc": "? #sensulujuz40 @juz40_online #sensulu #recommendations #makeup #fyppppppppppppppppppppppp ",
+   "views": 3035,
+   "likes": 179,
+   "comments": 35,
+   "link": "https://www.tiktok.com/@ku1tuma_h/video/7675378178281655560"
+  },
+  {
+   "user": "aiiggwx",
+   "nickname": "aiganym",
+   "desc": "#fyp #рекомендации #sensulujuz40 #juz40online @juz40_online  ",
+   "views": 2729,
+   "likes": 173,
+   "comments": 21,
+   "link": "https://www.tiktok.com/@aiiggwx/video/7674364955126222101"
+  },
+  {
+   "user": "userlolpineapple",
+   "nickname": "ананас",
+   "desc": "#sensulujuz40 #juz40 #sensulu ",
+   "views": 2719,
+   "likes": 166,
+   "comments": 80,
+   "link": "https://www.tiktok.com/@userlolpineapple/video/7676191881944108296"
+  },
+  {
+   "user": "merupage",
+   "nickname": "merupage",
+   "desc": "🌌 #sensulujuz40 #m #рекомендации  #juz40 #fest #sensulu ",
+   "views": 2455,
+   "likes": 144,
+   "comments": 79,
+   "link": "https://www.tiktok.com/@merupage/video/7676918598467882258"
+  },
+  {
+   "user": "zh1_7_",
+   "nickname": "zh🇺🇸",
+   "desc": "@juz40_online #juz40online #sensulujuz40 #fup #recommendations #galaxymakeup ",
+   "views": 2403,
+   "likes": 115,
+   "comments": 54,
+   "link": "https://www.tiktok.com/@zh1_7_/video/7677236394284076306"
+  },
+  {
+   "user": "seninamiina",
+   "nickname": "Amina",
+   "desc": "#sensulujuz40 ",
+   "views": 2392,
+   "likes": 36,
+   "comments": 14,
+   "link": "https://www.tiktok.com/@seninamiina/video/7674956584380058888"
+  },
+  {
+   "user": "mennnsuluuu",
+   "nickname": "сұлудың ойларымен",
+   "desc": "#sensulujuz40 @juz40.smart ",
+   "views": 2390,
+   "likes": 230,
+   "comments": 88,
+   "link": "https://www.tiktok.com/@mennnsuluuu/video/7676921692756757767"
+  }
+ ]
+}
