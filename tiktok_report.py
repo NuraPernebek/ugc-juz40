@@ -7,7 +7,7 @@ from collections import defaultdict
 CONTESTS = [
     "sensulujuz40",
     "juz40online",
-    "juz40fest26",
+    "juz40festbts",
     "juz40fest",
     "juz40пен140",
     "juz40жүрегімде",
