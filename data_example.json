@@ -1,255 +1,304 @@
 {
- "updatedAt": "2026-08-21T19:18:36.559540+00:00",
+ "updatedAt": "2026-08-21T21:35:39.594149+00:00",
  "hashtags": [
-  "juz40jurekte",
-  "juz40online",
-  "juz40fest26",
-  "juz40fest",
-  "juz40пен140",
-  "juz40жүрегімде"
+  "juz40jurekte"
  ],
  "totals": {
-  "videos": 20,
-  "views": 12994868,
-  "likes": 666285,
-  "comments": 10855,
-  "users": 5
+  "videos": 25,
+  "views": 15553129,
+  "likes": 811422,
+  "comments": 11684,
+  "users": 6
  },
  "byHashtag": [
   {
    "tag": "juz40jurekte",
-   "videos": 20,
-   "views": 12994868,
-   "likes": 666285
+   "videos": 25,
+   "views": 15553129,
+   "likes": 811422
   }
  ],
  "topUsers": [
   {
-   "user": "isabek_malika_",
-   "views": 3440907,
-   "likes": 100242,
-   "comments": 2532,
-   "shares": 595,
-   "posts": 5,
-   "nickname": "Малика"
+   "user": "juz40juregimde",
+   "views": 3882057,
+   "likes": 146721,
+   "comments": 2399,
+   "shares": 746,
+   "posts": 4,
+   "nickname": "juz40juregimde"
   },
   {
    "user": "aainatuly_",
-   "views": 3128608,
-   "likes": 68079,
-   "comments": 2402,
-   "shares": 638,
-   "posts": 4,
+   "views": 3722605,
+   "likes": 202455,
+   "comments": 1650,
+   "shares": 947,
+   "posts": 5,
    "nickname": "aainatuly_"
   },
   {
    "user": "fary.akhmetkali",
-   "views": 2335297,
-   "likes": 194064,
-   "comments": 1717,
-   "shares": 455,
-   "posts": 4,
+   "views": 2778683,
+   "likes": 313600,
+   "comments": 5367,
+   "shares": 1674,
+   "posts": 8,
    "nickname": "Фариза"
   },
   {
-   "user": "serikovnnm",
-   "views": 2052115,
-   "likes": 109981,
-   "comments": 2483,
-   "shares": 732,
-   "posts": 4,
-   "nickname": "aiza"
-  },
-  {
    "user": "fwqie",
-   "views": 2037941,
-   "likes": 193919,
-   "comments": 1721,
-   "shares": 506,
+   "views": 2236768,
+   "likes": 101954,
+   "comments": 742,
+   "shares": 548,
    "posts": 3,
    "nickname": "fwqie"
+  },
+  {
+   "user": "isabek_malika_",
+   "views": 1589239,
+   "likes": 33473,
+   "comments": 542,
+   "shares": 640,
+   "posts": 3,
+   "nickname": "Малика"
+  },
+  {
+   "user": "serikovnnm",
+   "views": 1343777,
+   "likes": 13219,
+   "comments": 984,
+   "shares": 259,
+   "posts": 2,
+   "nickname": "aiza"
   }
  ],
  "topVideos": [
   {
    "user": "aainatuly_",
    "nickname": "aainatuly_",
-   "desc": "тест #juz40jurekte #fyp 3",
-   "views": 1104338,
-   "likes": 5993,
-   "comments": 498,
-   "link": "https://www.tiktok.com/@aainatuly_/video/7670000000000000003"
+   "desc": "тест #juz40jurekte #fyp видео номер 0",
+   "views": 1195310,
+   "likes": 35243,
+   "comments": 247,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7670000000000000000"
   },
   {
-   "user": "aainatuly_",
-   "nickname": "aainatuly_",
-   "desc": "тест #juz40jurekte #fyp 1",
-   "views": 1104174,
-   "likes": 14918,
-   "comments": 531,
-   "link": "https://www.tiktok.com/@aainatuly_/video/7670000000000000001"
+   "user": "juz40juregimde",
+   "nickname": "juz40juregimde",
+   "desc": "тест #juz40jurekte #fyp видео номер 20",
+   "views": 1148602,
+   "likes": 67743,
+   "comments": 680,
+   "link": "https://www.tiktok.com/@juz40juregimde/video/7670000000000000020"
   },
   {
-   "user": "fwqie",
-   "nickname": "fwqie",
-   "desc": "тест #juz40jurekte #fyp 2",
-   "views": 1104130,
-   "likes": 73736,
-   "comments": 553,
-   "link": "https://www.tiktok.com/@fwqie/video/7670000000000000002"
-  },
-  {
-   "user": "fary.akhmetkali",
-   "nickname": "Фариза",
-   "desc": "тест #juz40jurekte #fyp 0",
-   "views": 1075920,
-   "likes": 24826,
-   "comments": 413,
-   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000000"
-  },
-  {
-   "user": "isabek_malika_",
-   "nickname": "Малика",
-   "desc": "тест #juz40jurekte #fyp 8",
-   "views": 1022695,
-   "likes": 13275,
-   "comments": 338,
-   "link": "https://www.tiktok.com/@isabek_malika_/video/7670000000000000008"
-  },
-  {
-   "user": "isabek_malika_",
-   "nickname": "Малика",
-   "desc": "тест #juz40jurekte #fyp 19",
-   "views": 952646,
-   "likes": 11608,
-   "comments": 287,
-   "link": "https://www.tiktok.com/@isabek_malika_/video/7670000000000000019"
+   "user": "juz40juregimde",
+   "nickname": "juz40juregimde",
+   "desc": "тест #juz40jurekte #fyp видео номер 19",
+   "views": 1134740,
+   "likes": 41206,
+   "comments": 459,
+   "link": "https://www.tiktok.com/@juz40juregimde/video/7670000000000000019"
   },
   {
    "user": "serikovnnm",
    "nickname": "aiza",
-   "desc": "тест #juz40jurekte #fyp 16",
-   "views": 777774,
-   "likes": 8434,
-   "comments": 879,
-   "link": "https://www.tiktok.com/@serikovnnm/video/7670000000000000016"
+   "desc": "тест #juz40jurekte #fyp видео номер 11",
+   "views": 1051929,
+   "likes": 7899,
+   "comments": 429,
+   "link": "https://www.tiktok.com/@serikovnnm/video/7670000000000000011"
   },
   {
    "user": "fwqie",
    "nickname": "fwqie",
-   "desc": "тест #juz40jurekte #fyp 5",
-   "views": 756809,
-   "likes": 61238,
-   "comments": 745,
+   "desc": "тест #juz40jurekte #fyp видео номер 5",
+   "views": 1048343,
+   "likes": 24748,
+   "comments": 388,
    "link": "https://www.tiktok.com/@fwqie/video/7670000000000000005"
   },
   {
-   "user": "isabek_malika_",
-   "nickname": "Малика",
-   "desc": "тест #juz40jurekte #fyp 9",
-   "views": 702792,
-   "likes": 32321,
-   "comments": 409,
-   "link": "https://www.tiktok.com/@isabek_malika_/video/7670000000000000009"
+   "user": "juz40juregimde",
+   "nickname": "juz40juregimde",
+   "desc": "тест #juz40jurekte #fyp видео номер 13",
+   "views": 817601,
+   "likes": 9139,
+   "comments": 404,
+   "link": "https://www.tiktok.com/@juz40juregimde/video/7670000000000000013"
   },
   {
-   "user": "fary.akhmetkali",
-   "nickname": "Фариза",
-   "desc": "тест #juz40jurekte #fyp 13",
-   "views": 593486,
-   "likes": 53534,
-   "comments": 900,
-   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000013"
-  },
-  {
-   "user": "aainatuly_",
-   "nickname": "aainatuly_",
-   "desc": "тест #juz40jurekte #fyp 18",
-   "views": 554666,
-   "likes": 17090,
-   "comments": 476,
-   "link": "https://www.tiktok.com/@aainatuly_/video/7670000000000000018"
-  },
-  {
-   "user": "isabek_malika_",
-   "nickname": "Малика",
-   "desc": "тест #juz40jurekte #fyp 14",
-   "views": 494824,
-   "likes": 9363,
-   "comments": 825,
-   "link": "https://www.tiktok.com/@isabek_malika_/video/7670000000000000014"
-  },
-  {
-   "user": "serikovnnm",
-   "nickname": "aiza",
-   "desc": "тест #juz40jurekte #fyp 12",
-   "views": 477398,
-   "likes": 21464,
-   "comments": 834,
-   "link": "https://www.tiktok.com/@serikovnnm/video/7670000000000000012"
-  },
-  {
-   "user": "serikovnnm",
-   "nickname": "aiza",
-   "desc": "тест #juz40jurekte #fyp 6",
-   "views": 460775,
-   "likes": 30247,
-   "comments": 244,
-   "link": "https://www.tiktok.com/@serikovnnm/video/7670000000000000006"
-  },
-  {
-   "user": "fary.akhmetkali",
-   "nickname": "Фариза",
-   "desc": "тест #juz40jurekte #fyp 11",
-   "views": 421793,
-   "likes": 47408,
-   "comments": 231,
-   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000011"
+   "user": "juz40juregimde",
+   "nickname": "juz40juregimde",
+   "desc": "тест #juz40jurekte #fyp видео номер 16",
+   "views": 781114,
+   "likes": 28633,
+   "comments": 856,
+   "link": "https://www.tiktok.com/@juz40juregimde/video/7670000000000000016"
   },
   {
    "user": "aainatuly_",
    "nickname": "aainatuly_",
-   "desc": "тест #juz40jurekte #fyp 10",
-   "views": 365430,
-   "likes": 30078,
-   "comments": 897,
-   "link": "https://www.tiktok.com/@aainatuly_/video/7670000000000000010"
-  },
-  {
-   "user": "serikovnnm",
-   "nickname": "aiza",
-   "desc": "тест #juz40jurekte #fyp 17",
-   "views": 336168,
-   "likes": 49836,
-   "comments": 526,
-   "link": "https://www.tiktok.com/@serikovnnm/video/7670000000000000017"
-  },
-  {
-   "user": "isabek_malika_",
-   "nickname": "Малика",
-   "desc": "тест #juz40jurekte #fyp 7",
-   "views": 267950,
-   "likes": 33675,
-   "comments": 673,
-   "link": "https://www.tiktok.com/@isabek_malika_/video/7670000000000000007"
-  },
-  {
-   "user": "fary.akhmetkali",
-   "nickname": "Фариза",
-   "desc": "тест #juz40jurekte #fyp 15",
-   "views": 244098,
-   "likes": 68296,
-   "comments": 173,
-   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000015"
+   "desc": "тест #juz40jurekte #fyp видео номер 2",
+   "views": 757270,
+   "likes": 3476,
+   "comments": 360,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7670000000000000002"
   },
   {
    "user": "fwqie",
    "nickname": "fwqie",
-   "desc": "тест #juz40jurekte #fyp 4",
-   "views": 177002,
-   "likes": 58945,
-   "comments": 423,
-   "link": "https://www.tiktok.com/@fwqie/video/7670000000000000004"
+   "desc": "тест #juz40jurekte #fyp видео номер 9",
+   "views": 744602,
+   "likes": 28273,
+   "comments": 237,
+   "link": "https://www.tiktok.com/@fwqie/video/7670000000000000009"
+  },
+  {
+   "user": "isabek_malika_",
+   "nickname": "Малика",
+   "desc": "тест #juz40jurekte #fyp видео номер 3",
+   "views": 719642,
+   "likes": 27361,
+   "comments": 264,
+   "link": "https://www.tiktok.com/@isabek_malika_/video/7670000000000000003"
+  },
+  {
+   "user": "aainatuly_",
+   "nickname": "aainatuly_",
+   "desc": "тест #juz40jurekte #fyp видео номер 7",
+   "views": 689905,
+   "likes": 40340,
+   "comments": 701,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7670000000000000007"
+  },
+  {
+   "user": "fary.akhmetkali",
+   "nickname": "Фариза",
+   "desc": "тест #juz40jurekte #fyp видео номер 4",
+   "views": 677848,
+   "likes": 22504,
+   "comments": 799,
+   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000004"
+  },
+  {
+   "user": "isabek_malika_",
+   "nickname": "Малика",
+   "desc": "тест #juz40jurekte #fyp видео номер 8",
+   "views": 629803,
+   "likes": 155,
+   "comments": 47,
+   "link": "https://www.tiktok.com/@isabek_malika_/video/7670000000000000008"
+  },
+  {
+   "user": "aainatuly_",
+   "nickname": "aainatuly_",
+   "desc": "тест #juz40jurekte #fyp видео номер 6",
+   "views": 619152,
+   "likes": 48823,
+   "comments": 116,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7670000000000000006"
+  },
+  {
+   "user": "fary.akhmetkali",
+   "nickname": "Фариза",
+   "desc": "тест #juz40jurekte #fyp видео номер 12",
+   "views": 617489,
+   "likes": 75569,
+   "comments": 590,
+   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000012"
+  },
+  {
+   "user": "aainatuly_",
+   "nickname": "aainatuly_",
+   "desc": "тест #juz40jurekte #fyp видео номер 22",
+   "views": 460968,
+   "likes": 74573,
+   "comments": 226,
+   "link": "https://www.tiktok.com/@aainatuly_/video/7670000000000000022"
+  },
+  {
+   "user": "fary.akhmetkali",
+   "nickname": "Фариза",
+   "desc": "тест #juz40jurekte #fyp видео номер 24",
+   "views": 459646,
+   "likes": 24347,
+   "comments": 736,
+   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000024"
+  },
+  {
+   "user": "fwqie",
+   "nickname": "fwqie",
+   "desc": "тест #juz40jurekte #fyp видео номер 21",
+   "views": 443823,
+   "likes": 48933,
+   "comments": 117,
+   "link": "https://www.tiktok.com/@fwqie/video/7670000000000000021"
+  },
+  {
+   "user": "fary.akhmetkali",
+   "nickname": "Фариза",
+   "desc": "тест #juz40jurekte #fyp видео номер 23",
+   "views": 343082,
+   "likes": 49000,
+   "comments": 868,
+   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000023"
+  },
+  {
+   "user": "fary.akhmetkali",
+   "nickname": "Фариза",
+   "desc": "тест #juz40jurekte #fyp видео номер 1",
+   "views": 340778,
+   "likes": 9048,
+   "comments": 802,
+   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000001"
+  },
+  {
+   "user": "serikovnnm",
+   "nickname": "aiza",
+   "desc": "тест #juz40jurekte #fyp видео номер 15",
+   "views": 291848,
+   "likes": 5320,
+   "comments": 555,
+   "link": "https://www.tiktok.com/@serikovnnm/video/7670000000000000015"
+  },
+  {
+   "user": "isabek_malika_",
+   "nickname": "Малика",
+   "desc": "тест #juz40jurekte #fyp видео номер 17",
+   "views": 239794,
+   "likes": 5957,
+   "comments": 231,
+   "link": "https://www.tiktok.com/@isabek_malika_/video/7670000000000000017"
+  },
+  {
+   "user": "fary.akhmetkali",
+   "nickname": "Фариза",
+   "desc": "тест #juz40jurekte #fyp видео номер 14",
+   "views": 143514,
+   "likes": 25536,
+   "comments": 666,
+   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000014"
+  },
+  {
+   "user": "fary.akhmetkali",
+   "nickname": "Фариза",
+   "desc": "тест #juz40jurekte #fyp видео номер 18",
+   "views": 143396,
+   "likes": 55354,
+   "comments": 400,
+   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000018"
+  },
+  {
+   "user": "fary.akhmetkali",
+   "nickname": "Фариза",
+   "desc": "тест #juz40jurekte #fyp видео номер 10",
+   "views": 52930,
+   "likes": 52242,
+   "comments": 506,
+   "link": "https://www.tiktok.com/@fary.akhmetkali/video/7670000000000000010"
   }
  ]
 }

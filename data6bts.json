@@ -1,0 +1,925 @@
+{
+ "updatedAt": "2026-09-01T14:02:51.007967+00:00",
+ "hashtags": [
+  "juz40festbts"
+ ],
+ "totals": {
+  "videos": 661,
+  "views": 12598616,
+  "likes": 1126196,
+  "comments": 7530,
+  "users": 219
+ },
+ "byHashtag": [
+  {
+   "tag": "juz40festbts",
+   "videos": 661,
+   "views": 12598616,
+   "likes": 1126196
+  }
+ ],
+ "topUsers": [
+  {
+   "user": "22adiyatova0",
+   "views": 1831700,
+   "likes": 177600,
+   "comments": 520,
+   "shares": 10440,
+   "posts": 3,
+   "nickname": "Майпо"
+  },
+  {
+   "user": "_kraw3",
+   "views": 1492638,
+   "likes": 162139,
+   "comments": 453,
+   "shares": 18013,
+   "posts": 11,
+   "nickname": "starry_"
+  },
+  {
+   "user": "99.aiym",
+   "views": 660500,
+   "likes": 42234,
+   "comments": 98,
+   "shares": 660,
+   "posts": 6,
+   "nickname": "ай китти 🎀"
+  },
+  {
+   "user": "sattarkhanova_as",
+   "views": 643170,
+   "likes": 51748,
+   "comments": 230,
+   "shares": 2620,
+   "posts": 23,
+   "nickname": "JUZ40__festte"
+  },
+  {
+   "user": "jakoshy",
+   "views": 615090,
+   "likes": 48933,
+   "comments": 180,
+   "shares": 2402,
+   "posts": 14,
+   "nickname": "жанка juz40 student⚡️💙"
+  },
+  {
+   "user": "a1dana.r_",
+   "views": 480151,
+   "likes": 50430,
+   "comments": 135,
+   "shares": 880,
+   "posts": 6,
+   "nickname": "Айдана Рисбаева"
+  },
+  {
+   "user": "asylbek_7770",
+   "views": 471501,
+   "likes": 36501,
+   "comments": 247,
+   "shares": 3363,
+   "posts": 3,
+   "nickname": "асик"
+  },
+  {
+   "user": "juz40_jjx",
+   "views": 448427,
+   "likes": 45363,
+   "comments": 96,
+   "shares": 579,
+   "posts": 5,
+   "nickname": "juz40_jjx"
+  },
+  {
+   "user": "qusjoly140",
+   "views": 405961,
+   "likes": 29645,
+   "comments": 145,
+   "shares": 5228,
+   "posts": 7,
+   "nickname": "qusjoly140"
+  },
+  {
+   "user": "bekoshinitaly",
+   "views": 358000,
+   "likes": 35300,
+   "comments": 158,
+   "shares": 586,
+   "posts": 3,
+   "nickname": "Bekosh in Italy🇮🇹"
+  },
+  {
+   "user": "demirovv_07",
+   "views": 328014,
+   "likes": 23821,
+   "comments": 218,
+   "shares": 390,
+   "posts": 8,
+   "nickname": "demirovv_07"
+  },
+  {
+   "user": "kausvxr",
+   "views": 313600,
+   "likes": 63700,
+   "comments": 72,
+   "shares": 910,
+   "posts": 1,
+   "nickname": "kausvxr"
+  },
+  {
+   "user": "velorianesse",
+   "views": 308491,
+   "likes": 19598,
+   "comments": 221,
+   "shares": 415,
+   "posts": 19,
+   "nickname": "velorianesse"
+  },
+  {
+   "user": "dtxz13",
+   "views": 280556,
+   "likes": 28546,
+   "comments": 133,
+   "shares": 2102,
+   "posts": 8,
+   "nickname": "𝒔𝒆𝒛𝒊𝒎"
+  },
+  {
+   "user": "myyrzabekovaa",
+   "views": 273268,
+   "likes": 14299,
+   "comments": 121,
+   "shares": 251,
+   "posts": 24,
+   "nickname": "Gulyaa"
+  },
+  {
+   "user": "shessokoko",
+   "views": 245000,
+   "likes": 24884,
+   "comments": 188,
+   "shares": 279,
+   "posts": 2,
+   "nickname": "Koko"
+  },
+  {
+   "user": "aqwrlk_",
+   "views": 236800,
+   "likes": 11825,
+   "comments": 64,
+   "shares": 91,
+   "posts": 3,
+   "nickname": "Aktilek"
+  },
+  {
+   "user": "ord.bars",
+   "views": 178200,
+   "likes": 19700,
+   "comments": 117,
+   "shares": 1573,
+   "posts": 1,
+   "nickname": "Bars"
+  },
+  {
+   "user": "hann1i0",
+   "views": 154908,
+   "likes": 12318,
+   "comments": 56,
+   "shares": 702,
+   "posts": 5,
+   "nickname": "juz40fest_qusjoly"
+  },
+  {
+   "user": "a1khanymk",
+   "views": 152451,
+   "likes": 14695,
+   "comments": 60,
+   "shares": 510,
+   "posts": 3,
+   "nickname": "a1khanymk"
+  },
+  {
+   "user": "zhanellok_0",
+   "views": 138994,
+   "likes": 8806,
+   "comments": 73,
+   "shares": 659,
+   "posts": 9,
+   "nickname": "zhanellok_"
+  },
+  {
+   "user": "juz40_math",
+   "views": 125689,
+   "likes": 10005,
+   "comments": 202,
+   "shares": 770,
+   "posts": 12,
+   "nickname": "ҰБТ | МАТЕМАТИКА | JUZ40 💙"
+  },
+  {
+   "user": "juz40_festtt",
+   "views": 118365,
+   "likes": 14977,
+   "comments": 34,
+   "shares": 194,
+   "posts": 8,
+   "nickname": "ayana__"
+  },
+  {
+   "user": "diasokjuz40",
+   "views": 115676,
+   "likes": 7974,
+   "comments": 105,
+   "shares": 226,
+   "posts": 5,
+   "nickname": "diassoll"
+  },
+  {
+   "user": "kanzi_ra",
+   "views": 103300,
+   "likes": 6894,
+   "comments": 25,
+   "shares": 452,
+   "posts": 2,
+   "nickname": "kanzira"
+  },
+  {
+   "user": "userjuzv",
+   "views": 101500,
+   "likes": 12700,
+   "comments": 58,
+   "shares": 678,
+   "posts": 1,
+   "nickname": "𐙚 / juz40."
+  },
+  {
+   "user": "davinci_askr",
+   "views": 91106,
+   "likes": 6340,
+   "comments": 110,
+   "shares": 150,
+   "posts": 11,
+   "nickname": "juz40_DaVinci"
+  },
+  {
+   "user": "juz40_fest2026",
+   "views": 90765,
+   "likes": 5800,
+   "comments": 35,
+   "shares": 338,
+   "posts": 25,
+   "nickname": "juz40_fest2026"
+  },
+  {
+   "user": "juz40fest26",
+   "views": 85573,
+   "likes": 6510,
+   "comments": 53,
+   "shares": 182,
+   "posts": 13,
+   "nickname": "Juz40fest_26"
+  },
+  {
+   "user": "juz40fest1",
+   "views": 76523,
+   "likes": 7531,
+   "comments": 42,
+   "shares": 228,
+   "posts": 4,
+   "nickname": "juz40fest1"
+  },
+  {
+   "user": "service_bolimi",
+   "views": 70910,
+   "likes": 4742,
+   "comments": 52,
+   "shares": 415,
+   "posts": 16,
+   "nickname": "service_bolimi"
+  },
+  {
+   "user": "juz40_methodology",
+   "views": 69453,
+   "likes": 3072,
+   "comments": 25,
+   "shares": 94,
+   "posts": 8,
+   "nickname": "JUZ40 | ӘДІСТЕМЕ БӨЛІМІ"
+  },
+  {
+   "user": "kanat1ovnnaaa",
+   "views": 66485,
+   "likes": 5015,
+   "comments": 19,
+   "shares": 37,
+   "posts": 2,
+   "nickname": "kanat1ovnnaaa"
+  },
+  {
+   "user": "juzsdent",
+   "views": 61488,
+   "likes": 5151,
+   "comments": 24,
+   "shares": 173,
+   "posts": 2,
+   "nickname": "Juzsdent"
+  },
+  {
+   "user": "belalkhan_77",
+   "views": 55000,
+   "likes": 4233,
+   "comments": 76,
+   "shares": 183,
+   "posts": 1,
+   "nickname": "belalkhan_77"
+  },
+  {
+   "user": "balnur.juz40",
+   "views": 48320,
+   "likes": 3294,
+   "comments": 42,
+   "shares": 106,
+   "posts": 6,
+   "nickname": "Balnur | JUZ40🇰🇿"
+  },
+  {
+   "user": "alish._0er",
+   "views": 48243,
+   "likes": 5499,
+   "comments": 91,
+   "shares": 250,
+   "posts": 2,
+   "nickname": "Алиш Пифагор"
+  },
+  {
+   "user": "donuars",
+   "views": 46647,
+   "likes": 1974,
+   "comments": 15,
+   "shares": 48,
+   "posts": 16,
+   "nickname": "donuars"
+  },
+  {
+   "user": "adlbekkovaa1",
+   "views": 42400,
+   "likes": 3601,
+   "comments": 6,
+   "shares": 25,
+   "posts": 1,
+   "nickname": "juz40_merey🫂"
+  },
+  {
+   "user": "rrabigaa",
+   "views": 41400,
+   "likes": 5260,
+   "comments": 18,
+   "shares": 129,
+   "posts": 1,
+   "nickname": "Rabiğa🤎"
+  },
+  {
+   "user": "juz40_karimushaas",
+   "views": 39946,
+   "likes": 1799,
+   "comments": 52,
+   "shares": 73,
+   "posts": 5,
+   "nickname": "juz40_karimushaas"
+  },
+  {
+   "user": "juz40student_",
+   "views": 33942,
+   "likes": 2899,
+   "comments": 56,
+   "shares": 218,
+   "posts": 6,
+   "nickname": "Araika/juz40"
+  },
+  {
+   "user": "juz40_biochem_student",
+   "views": 32193,
+   "likes": 2411,
+   "comments": 30,
+   "shares": 183,
+   "posts": 8,
+   "nickname": "juz40_biochem_student"
+  },
+  {
+   "user": "juz40ym",
+   "views": 32000,
+   "likes": 1518,
+   "comments": 8,
+   "shares": 111,
+   "posts": 1,
+   "nickname": "juz40ym"
+  },
+  {
+   "user": "_.mw.lx._2",
+   "views": 30985,
+   "likes": 2149,
+   "comments": 77,
+   "shares": 42,
+   "posts": 4,
+   "nickname": "mus"
+  },
+  {
+   "user": "fistashka691",
+   "views": 30111,
+   "likes": 3505,
+   "comments": 58,
+   "shares": 190,
+   "posts": 4,
+   "nickname": "fistashka"
+  },
+  {
+   "user": "aainatuly_",
+   "views": 28107,
+   "likes": 2520,
+   "comments": 40,
+   "shares": 65,
+   "posts": 8,
+   "nickname": "aainatuly_"
+  },
+  {
+   "user": "imashowx",
+   "views": 27011,
+   "likes": 2491,
+   "comments": 180,
+   "shares": 86,
+   "posts": 8,
+   "nickname": "Им | тг: imash140"
+  },
+  {
+   "user": "juz40.shygarmashylyk",
+   "views": 25964,
+   "likes": 1888,
+   "comments": 29,
+   "shares": 182,
+   "posts": 5,
+   "nickname": "Simba’s lions🦁"
+  },
+  {
+   "user": "naz1koun",
+   "views": 24903,
+   "likes": 1384,
+   "comments": 16,
+   "shares": 19,
+   "posts": 3,
+   "nickname": "nazerke"
+  }
+ ],
+ "topVideos": [
+  {
+   "user": "22adiyatova0",
+   "nickname": "Майпо",
+   "desc": "#juz40festbts @juz40_fest @juz40.smart ",
+   "views": 1000000,
+   "likes": 106200,
+   "comments": 375,
+   "link": "https://www.tiktok.com/@22adiyatova0/video/7678407979691003156"
+  },
+  {
+   "user": "22adiyatova0",
+   "nickname": "Майпо",
+   "desc": "#JUZ40FESTBTS @juz40_fest ",
+   "views": 509800,
+   "likes": 41900,
+   "comments": 117,
+   "link": "https://www.tiktok.com/@22adiyatova0/video/7678468019756059925"
+  },
+  {
+   "user": "_kraw3",
+   "nickname": "starry_",
+   "desc": "#JUZ40FESTBTS 🤣🤣🤣🤣🤣🤣@juz40_fest @juz40.smart ",
+   "views": 453500,
+   "likes": 66500,
+   "comments": 130,
+   "link": "https://www.tiktok.com/@_kraw3/video/7678360336424045832"
+  },
+  {
+   "user": "juz40_jjx",
+   "nickname": "juz40_jjx",
+   "desc": "#foryoupage #viral #fyp #juz40festbts #juz40online @juz40.smart @Juz40 @AIBERGEN BADI ",
+   "views": 440300,
+   "likes": 45000,
+   "comments": 90,
+   "link": "https://www.tiktok.com/@juz40_jjx/video/7678301993244298514"
+  },
+  {
+   "user": "asylbek_7770",
+   "nickname": "асик",
+   "desc": "#JUZ40FESTBTS @juz40_fest @juz40.smart ",
+   "views": 435500,
+   "likes": 34700,
+   "comments": 237,
+   "link": "https://www.tiktok.com/@asylbek_7770/video/7678354236932918549"
+  },
+  {
+   "user": "jakoshy",
+   "nickname": "жанка juz40 student⚡️💙",
+   "desc": "@juz40_fest ?😡 @juz40.smart #JUZ40FESTBTS #foryou @AIBERGEN BADI ",
+   "views": 380200,
+   "likes": 28900,
+   "comments": 90,
+   "link": "https://www.tiktok.com/@jakoshy/video/7678673735032769799"
+  },
+  {
+   "user": "22adiyatova0",
+   "nickname": "Майпо",
+   "desc": "#juz40festbts @juz40_fest @juz40.smart ",
+   "views": 321900,
+   "likes": 29500,
+   "comments": 28,
+   "link": "https://www.tiktok.com/@22adiyatova0/video/7678403539659541780"
+  },
+  {
+   "user": "kausvxr",
+   "nickname": "kausvxr",
+   "desc": "🤍 #JUZ40FESTBTS  @juz40_fest @juz40.smart @Takhmina ",
+   "views": 313600,
+   "likes": 63700,
+   "comments": 72,
+   "link": "https://www.tiktok.com/@kausvxr/video/7678428311827287316"
+  },
+  {
+   "user": "99.aiym",
+   "nickname": "ай китти 🎀",
+   "desc": "с фанатом 🤣#juz40festbts ",
+   "views": 279300,
+   "likes": 20700,
+   "comments": 44,
+   "link": "https://www.tiktok.com/@99.aiym/video/7678350169356061959"
+  },
+  {
+   "user": "_kraw3",
+   "nickname": "starry_",
+   "desc": "17жылдық удача кетті🤣🤣#JUZ40FESTBTS @juz40_fest @juz40.smart е коя салш дима🤣🤣🤣",
+   "views": 255000,
+   "likes": 20000,
+   "comments": 106,
+   "link": "https://www.tiktok.com/@_kraw3/video/7678429605455236360"
+  },
+  {
+   "user": "a1dana.r_",
+   "nickname": "Айдана Рисбаева",
+   "desc": "140 бал иегерлері және олардың походкалары #JUZ40FESTBTS #juz40fest2026 #juz40 #creatorsearchinsights #fyp @juz40_fest @",
+   "views": 251600,
+   "likes": 24200,
+   "comments": 79,
+   "link": "https://www.tiktok.com/@a1dana.r_/video/7678418303911464213"
+  },
+  {
+   "user": "_kraw3",
+   "nickname": "starry_",
+   "desc": "#JUZ40FESTBTS @juz40_fest @juz40.smart видео:juz40_online парақшасынан алдым✅#recommendations #рек ",
+   "views": 233000,
+   "likes": 21700,
+   "comments": 25,
+   "link": "https://www.tiktok.com/@_kraw3/video/7678701819249446152"
+  },
+  {
+   "user": "shessokoko",
+   "nickname": "Koko",
+   "desc": "😭😭😭😭😭😭донер #JUZ40FESTBTS @juz40_fest @juz40_online ",
+   "views": 227600,
+   "likes": 23500,
+   "comments": 144,
+   "link": "https://www.tiktok.com/@shessokoko/video/7678677530743704839"
+  },
+  {
+   "user": "a1dana.r_",
+   "nickname": "Айдана Рисбаева",
+   "desc": "Походка Жазиры #JUZ40FESTBTS #juz40fest2026 #juz40 #creatorsearchinsights #elbruso @juz40_fest @juz40.smart @juz40_onlin",
+   "views": 205100,
+   "likes": 25200,
+   "comments": 44,
+   "link": "https://www.tiktok.com/@a1dana.r_/video/7678421513283849492"
+  },
+  {
+   "user": "dtxz13",
+   "nickname": "𝒔𝒆𝒛𝒊𝒎",
+   "desc": "Крааашш💔💔💔 @juz40_fest @juz40_online #juz40festbts #juz40online #тк #рекомендации @juz40.smart ",
+   "views": 198000,
+   "likes": 20600,
+   "comments": 83,
+   "link": "https://www.tiktok.com/@dtxz13/video/7678693006089768213"
+  },
+  {
+   "user": "_kraw3",
+   "nickname": "starry_",
+   "desc": "#JUZ40FESTBTS @juz40_fest @juz40.smart #recommendations #рек #recuerdos ",
+   "views": 196500,
+   "likes": 23500,
+   "comments": 101,
+   "link": "https://www.tiktok.com/@_kraw3/video/7679033700419489042"
+  },
+  {
+   "user": "sattarkhanova_as",
+   "nickname": "JUZ40__festte",
+   "desc": "#juz40online #JUZ40FESTBTS @juz40.smart @juz40_fest  ",
+   "views": 191700,
+   "likes": 18100,
+   "comments": 112,
+   "link": "https://www.tiktok.com/@sattarkhanova_as/video/7678281920542821639"
+  },
+  {
+   "user": "ord.bars",
+   "nickname": "Bars",
+   "desc": "#JUZ40FESTBTS Неменеге мәз боп тұрмын",
+   "views": 178200,
+   "likes": 19700,
+   "comments": 117,
+   "link": "https://www.tiktok.com/@ord.bars/video/7678380176614411541"
+  },
+  {
+   "user": "velorianesse",
+   "nickname": "velorianesse",
+   "desc": "#JUZ40FESTBTS @juz40_fest 😍🤩",
+   "views": 169200,
+   "likes": 10400,
+   "comments": 81,
+   "link": "https://www.tiktok.com/@velorianesse/video/7678264148303547668"
+  },
+  {
+   "user": "_kraw3",
+   "nickname": "starry_",
+   "desc": "#JUZ40FESTBTS @juz40_fest @juz40.smart #recommendations ",
+   "views": 159200,
+   "likes": 11500,
+   "comments": 41,
+   "link": "https://www.tiktok.com/@_kraw3/video/7678323403933142279"
+  },
+  {
+   "user": "demirovv_07",
+   "nickname": "demirovv_07",
+   "desc": "Флэшмоб 1/3 часть, қалғаны профильде @juz40_fest @juz40.smart #JUZ40FESTBTS ",
+   "views": 158800,
+   "likes": 12800,
+   "comments": 27,
+   "link": "https://www.tiktok.com/@demirovv_07/video/7678962742652374279"
+  },
+  {
+   "user": "qusjoly140",
+   "nickname": "qusjoly140",
+   "desc": "#JUZ40FESTBTS ",
+   "views": 146600,
+   "likes": 7921,
+   "comments": 45,
+   "link": "https://www.tiktok.com/@qusjoly140/video/7678340884580224263"
+  },
+  {
+   "user": "jakoshy",
+   "nickname": "жанка juz40 student⚡️💙",
+   "desc": "ХАХАХАХАХАХА #JUZ40FESTBTS #juz40online #fyp @juz40_fest @juz40.smart @juz40_online ",
+   "views": 139500,
+   "likes": 15100,
+   "comments": 31,
+   "link": "https://www.tiktok.com/@jakoshy/video/7679046079622499592"
+  },
+  {
+   "user": "bekoshinitaly",
+   "nickname": "Bekosh in Italy🇮🇹",
+   "desc": "#juz40festbts ",
+   "views": 128400,
+   "likes": 10200,
+   "comments": 14,
+   "link": "https://www.tiktok.com/@bekoshinitaly/video/7678296366052871456"
+  },
+  {
+   "user": "qusjoly140",
+   "nickname": "qusjoly140",
+   "desc": "#JUZ40FESTBTS ",
+   "views": 125700,
+   "likes": 11500,
+   "comments": 45,
+   "link": "https://www.tiktok.com/@qusjoly140/video/7678374476572085512"
+  },
+  {
+   "user": "aqwrlk_",
+   "nickname": "Aktilek",
+   "desc": "🤭🤭🤭 #хочуврек #JUZ40FESTBTS #флешмоб ",
+   "views": 125300,
+   "likes": 6815,
+   "comments": 40,
+   "link": "https://www.tiktok.com/@aqwrlk_/video/7678809569333677332"
+  },
+  {
+   "user": "bekoshinitaly",
+   "nickname": "Bekosh in Italy🇮🇹",
+   "desc": "@Майпо #juz40festbts ",
+   "views": 122100,
+   "likes": 14100,
+   "comments": 121,
+   "link": "https://www.tiktok.com/@bekoshinitaly/video/7678281153899433249"
+  },
+  {
+   "user": "_kraw3",
+   "nickname": "starry_",
+   "desc": "#JUZ40FESTBTS @juz40_fest @juz40.smart #recuerdos ",
+   "views": 118900,
+   "likes": 12100,
+   "comments": 24,
+   "link": "https://www.tiktok.com/@_kraw3/video/7678312353871449362"
+  },
+  {
+   "user": "qusjoly140",
+   "nickname": "qusjoly140",
+   "desc": "😱😱😱😱😈😈 #JUZ40FESTBTS ",
+   "views": 111900,
+   "likes": 9166,
+   "comments": 48,
+   "link": "https://www.tiktok.com/@qusjoly140/video/7678637719433579794"
+  },
+  {
+   "user": "juz40_festtt",
+   "nickname": "ayana__",
+   "desc": "#JUZ40FESTBTS #juz40festbts @zhuldyzai.mussayeva @juz40.smart ",
+   "views": 111400,
+   "likes": 14600,
+   "comments": 34,
+   "link": "https://www.tiktok.com/@juz40_festtt/video/7678449928967867656"
+  },
+  {
+   "user": "99.aiym",
+   "nickname": "ай китти 🎀",
+   "desc": "потолок болды 🔥🔥🔥  #JUZ40FESTBTS @juz40_online @juz40_fest ",
+   "views": 107500,
+   "likes": 7079,
+   "comments": 14,
+   "link": "https://www.tiktok.com/@99.aiym/video/7678730940004273415"
+  },
+  {
+   "user": "bekoshinitaly",
+   "nickname": "Bekosh in Italy🇮🇹",
+   "desc": "Әңгіме гүлде емес Қанат көңілде деген болдығо таза😭🤣 #рекомендации #цветы #juz40festbts ",
+   "views": 107500,
+   "likes": 11000,
+   "comments": 23,
+   "link": "https://www.tiktok.com/@bekoshinitaly/video/7678392749661474080"
+  },
+  {
+   "user": "a1khanymk",
+   "nickname": "a1khanymk",
+   "desc": "😍😍😍 #рекомендации #JUZ40FESTBTS #juz40fest #juz40online #juz40пен140 ",
+   "views": 102700,
+   "likes": 10200,
+   "comments": 48,
+   "link": "https://www.tiktok.com/@a1khanymk/video/7678601678198803720"
+  },
+  {
+   "user": "99.aiym",
+   "nickname": "ай китти 🎀",
+   "desc": "2 часть💙  juz40fest қалай өттііі: #JUZ40FESTBTS #juz40fest #влог #рекомендации @juz40_fest ",
+   "views": 102400,
+   "likes": 6444,
+   "comments": 19,
+   "link": "https://www.tiktok.com/@99.aiym/video/7679492859912916231"
+  },
+  {
+   "user": "myyrzabekovaa",
+   "nickname": "Gulyaa",
+   "desc": "Фест қызықтарымен толтыыырып салам енді🌟✌🏻#JUZ40FESTBTS #рек #фест @juz40_fest ",
+   "views": 102200,
+   "likes": 5950,
+   "comments": 12,
+   "link": "https://www.tiktok.com/@myyrzabekovaa/video/7678427821131173141"
+  },
+  {
+   "user": "userjuzv",
+   "nickname": "𐙚 / juz40.",
+   "desc": "history teacher but make it japanese cinema 🎞️🇯🇵 @Абай Шора #juz40online #абайағай #juz40festbts #aftereffects #foryoupa",
+   "views": 101500,
+   "likes": 12700,
+   "comments": 58,
+   "link": "https://www.tiktok.com/@userjuzv/video/7678405178021760264"
+  },
+  {
+   "user": "aqwrlk_",
+   "nickname": "Aktilek",
+   "desc": "Тарих қайталанды ма 😂😂 #хочуврек #JUZ40FESTBTS ",
+   "views": 100600,
+   "likes": 4615,
+   "comments": 15,
+   "link": "https://www.tiktok.com/@aqwrlk_/video/7678797367776185620"
+  },
+  {
+   "user": "99.aiym",
+   "nickname": "ай китти 🎀",
+   "desc": "өзіме өтті 🤣 @juz40_fest #JUZ40FESTBTS @IL’HAN #рекомендации ",
+   "views": 96800,
+   "likes": 4284,
+   "comments": 12,
+   "link": "https://www.tiktok.com/@99.aiym/video/7678996181434780936"
+  },
+  {
+   "user": "zhanellok_0",
+   "nickname": "zhanellok_",
+   "desc": "#juz40festbts #врекомендации #вэтотдень #@juz40_fest #реек ",
+   "views": 94000,
+   "likes": 5776,
+   "comments": 30,
+   "link": "https://www.tiktok.com/@zhanellok_0/video/7678251163992542484"
+  },
+  {
+   "user": "hann1i0",
+   "nickname": "juz40fest_qusjoly",
+   "desc": "Эдуард ағай🔥🔥🔥 #JUZ40FESTBTS #juz40fest26 #juz40festbts @juz40_fest ",
+   "views": 89500,
+   "likes": 6819,
+   "comments": 38,
+   "link": "https://www.tiktok.com/@hann1i0/video/7678389322587983124"
+  },
+  {
+   "user": "sattarkhanova_as",
+   "nickname": "JUZ40__festte",
+   "desc": "#juz40online #JUZ40FESTBTS @juz40_fest @juz40.smart ",
+   "views": 88000,
+   "likes": 5207,
+   "comments": 4,
+   "link": "https://www.tiktok.com/@sattarkhanova_as/video/7678265582822657298"
+  },
+  {
+   "user": "myyrzabekovaa",
+   "nickname": "Gulyaa",
+   "desc": "Қалай флешмобты жырттық па? #JUZ40FESTBTS #Juz40festbts #рек#жуз40#бадиев ",
+   "views": 86700,
+   "likes": 3771,
+   "comments": 19,
+   "link": "https://www.tiktok.com/@myyrzabekovaa/video/7678613997742050580"
+  },
+  {
+   "user": "sattarkhanova_as",
+   "nickname": "JUZ40__festte",
+   "desc": "@juz40_fest @juz40.smart #juz40online #JUZ40FESTBTS ",
+   "views": 82900,
+   "likes": 9192,
+   "comments": 55,
+   "link": "https://www.tiktok.com/@sattarkhanova_as/video/7678346555316784402"
+  },
+  {
+   "user": "sattarkhanova_as",
+   "nickname": "JUZ40__festte",
+   "desc": "#JUZ40FESTBTS @juz40_fest @juz40.smart ",
+   "views": 78200,
+   "likes": 10300,
+   "comments": 26,
+   "link": "https://www.tiktok.com/@sattarkhanova_as/video/7678412657229073682"
+  },
+  {
+   "user": "jakoshy",
+   "nickname": "жанка juz40 student⚡️💙",
+   "desc": "Вафлиии😍😍😍🥰🥰 #JUZ40FESTBTS #juz40online @juz40_fest @juz40.smart @juz40_online ",
+   "views": 77200,
+   "likes": 3730,
+   "comments": 23,
+   "link": "https://www.tiktok.com/@jakoshy/video/7679400680263519495"
+  },
+  {
+   "user": "kanzi_ra",
+   "nickname": "kanzira",
+   "desc": "@AIBERGEN BADI #juz40festbts #juz40fest #juz40fest2026 #juz40online @juz40.smart @juz40_fest ",
+   "views": 74000,
+   "likes": 4366,
+   "comments": 17,
+   "link": "https://www.tiktok.com/@kanzi_ra/video/7678726678566259988"
+  },
+  {
+   "user": "kanat1ovnnaaa",
+   "nickname": "kanat1ovnnaaa",
+   "desc": "Прямм кайф билейді @juz40_fest @user60745986799 @zhuldyzai.mussayeva #JUZ40FESTBTS #рекомендации #галактика #танцы #хочу",
+   "views": 65200,
+   "likes": 4878,
+   "comments": 14,
+   "link": "https://www.tiktok.com/@kanat1ovnnaaa/video/7678721182350200082"
+  },
+  {
+   "user": "sattarkhanova_as",
+   "nickname": "JUZ40__festte",
+   "desc": "#juz40online #JUZ40FESTBTS @juz40.smart @juz40_fest ",
+   "views": 64600,
+   "likes": 4785,
+   "comments": 6,
+   "link": "https://www.tiktok.com/@sattarkhanova_as/video/7678319784139705608"
+  },
+  {
+   "user": "juz40fest1",
+   "nickname": "juz40fest1",
+   "desc": "#juz40festbts #juz40 #fest #жужай #потолок ",
+   "views": 64200,
+   "likes": 6774,
+   "comments": 35,
+   "link": "https://www.tiktok.com/@juz40fest1/video/7678383665579166997"
+  },
+  {
+   "user": "99.aiym",
+   "nickname": "ай китти 🎀",
+   "desc": "қаааатты эмоциональный grwu-juz40fest ке @𝒜𝓇𝓊🦢 #JUZ40FESTBTS @juz40_online @juz40_fest #grwu #рекомендации ",
+   "views": 60800,
+   "likes": 3153,
+   "comments": 7,
+   "link": "https://www.tiktok.com/@99.aiym/video/7678776504808934664"
+  }
+ ]
+}

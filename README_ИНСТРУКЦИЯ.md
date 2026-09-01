@@ -19,14 +19,14 @@ playwright install webkit
 
 ## ШАГ 1. Собрать посты по хэштегу
 
-Для каждого конкурсного хэштега запускаете:
+Сейчас отслеживаем только один конкурсный хэштег:
 
 ```
 python tiktok_scrape.py juz40jurekte
-python tiktok_scrape.py juz40online
-python tiktok_scrape.py juz40fest26
 ```
-(и так далее по списку ваших хэштегов)
+
+Если позже добавите ещё хэштеги — просто запускайте эту же команду
+с новым хэштегом и впишите его в список CONTESTS в make_data.py.
 
 Что происходит:
 - Откроется окно браузера со страницей хэштега.
@@ -58,11 +58,18 @@ python make_data.py
 ## ШАГ 3. Загрузить data.json на GitHub
 
 Первый раз:
-1. github.com → New repository → имя например `juz40-data` → Public → Create.
+1. github.com → New repository → имя например `ugc-juz40` → **обязательно Public**
+   (не Private!) → Create.
 2. Add file → Upload files → перетащите `data.json` → Commit changes.
-3. Откройте файл data.json в репозитории → кнопка **Raw** → скопируйте ссылку.
-   Она выглядит так:
-   `https://raw.githubusercontent.com/ВАШ_ЛОГИН/juz40-data/main/data.json`
+3. Откройте файл data.json в репозитории → кнопка **Raw** → скопируйте ссылку
+   из адресной строки браузера ЦЕЛИКОМ.
+
+   Правильная ссылка выглядит так, БЕЗ `?token=...` в конце:
+   `https://raw.githubusercontent.com/ВАШ_ЛОГИН/ugc-juz40/refs/heads/main/data.json`
+
+   Если в скопированной ссылке есть `?token=...` — значит репозиторий
+   ещё Private. Зайдите в Settings репозитория → прокрутите до
+   Danger Zone → Change repository visibility → Public.
 
 Каждое следующее обновление:
 1. Откройте data.json в репозитории → иконка карандаша (или Upload files поверх).
@@ -77,10 +84,10 @@ python make_data.py
 2. В самом начале `<script>` найдите строку:
 
    ```
-   var DATA_URL = 'https://raw.githubusercontent.com/NuraPernebek/nurnurnurnur/main/data.json';
+   var DATA_URL = 'https://raw.githubusercontent.com/NuraPernebek/ugc-juz40/refs/heads/main/data.json';
    ```
 
-   и замените на ВАШУ Raw-ссылку из Шага 3.
+   и замените на ВАШУ Raw-ссылку из Шага 3, если у вас другой репозиторий/логин.
 3. В Tilda: добавить блок **T123 «HTML-код»** → вставить содержимое файла ЦЕЛИКОМ
    (от `TILDA START` до `TILDA END`) → Сохранить → Опубликовать.
 
