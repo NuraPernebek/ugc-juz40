@@ -2,8 +2,8 @@ import json
 import sys
 from collections import defaultdict
 
-FILE = sys.argv[1] if len(sys.argv) > 1 else "posts_juz40festbts.json"
-HASHTAG = sys.argv[2] if len(sys.argv) > 2 else "juz40festbts"
+FILE = sys.argv[1] if len(sys.argv) > 1 else "posts_sensulujuz40.json"
+HASHTAG = sys.argv[2] if len(sys.argv) > 2 else "sensulujuz40"
 MIN_VIEWS = int(sys.argv[3]) if len(sys.argv) > 3 else 10000
 TOP_N = 10
 
