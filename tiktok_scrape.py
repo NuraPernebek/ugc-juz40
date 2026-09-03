@@ -4,7 +4,7 @@ import sys
 
 from playwright.async_api import async_playwright
 
-HASHTAG = sys.argv[1] if len(sys.argv) > 1 else "sensulujuz40"
+HASHTAG = sys.argv[1] if len(sys.argv) > 1 else "juz40festbts"
 MAX_SCROLLS = 120       # максимум прокруток
 STOP_AFTER = 12         # остановиться, если столько прокруток подряд без новых постов
 OUTPUT = f"posts_{HASHTAG}.json"
